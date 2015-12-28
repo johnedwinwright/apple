@@ -1,0 +1,2 @@
+module GjiHelper
+end

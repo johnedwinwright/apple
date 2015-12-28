@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'gji/getjobindex' , as: 'getjobindex'
   get 'gjd/getjobdetails' , as: 'getjobdetails'
 
   resources :jobs
