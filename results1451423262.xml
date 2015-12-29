@@ -1,0 +1,1702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Jobs type="array">
+  <Job>
+    <requisitionInfo>
+      <postingTitle>Big Data Engineer, iTunes Analytics</postingTitle>
+      <formId type="integer">45076746</formId>
+      <reqOpenDt>24-Dec-2015</reqOpenDt>
+      <stdWklyHrs>40.00</stdWklyHrs>
+      <jobCdHigh nil="true"/>
+      <locationName>Santa Clara Valley</locationName>
+      <stateAbbr>California</stateAbbr>
+      <countryCode>United States</countryCode>
+      <reqDisplayStatusCode>3.1</reqDisplayStatusCode>
+      <homeofficeInd nil="true"/>
+      <preferredCandAvail nil="true"/>
+      <coCd nil="true"/>
+      <hiringMgrFirstName nil="true"/>
+      <hiringMgrPreferredName nil="true"/>
+      <hiringMgrLastName nil="true"/>
+      <recruiterFirstName nil="true"/>
+      <recruiterPreferredName nil="true"/>
+      <recruiterLastName nil="true"/>
+      <shiftCd nil="true"/>
+      <empmntTypeCd nil="true"/>
+      <jobCdLow nil="true"/>
+      <bgCode>USA</bgCode>
+      <glSiteNum nil="true"/>
+      <glDeptNum nil="true"/>
+      <reqOpenDate type="integer">1450939864000</reqOpenDate>
+      <postInternally>1</postInternally>
+      <postExternally>1</postExternally>
+      <confidentialInd>0</confidentialInd>
+      <wklyHourDispInd>1</wklyHourDispInd>
+    </requisitionInfo>
+    <jobComments>The iTunes Store is looking for a top-notch Big Data engineer to develop an analytics infrastructure that will generate insights into customer experiences on products such as the iTunes Store, App Store, and iBookstore.  Our products reach hundreds of millions of customers around the world, and have revolutionized how people interact with their music, movies, TV shows, apps, books, and podcasts. </jobComments>
+    <reqTextFields>
+      <description>The iTunes Store Analytics team is responsible for collecting, analyzing, and reporting on customer experience data.  From this data we generate insights into how customers interact with our products, and use these insights to drive improvements to user-facing features.  You will be working on a small team and will be responsible for processing large amounts of data and preparing that data for visualization, ad-hoc exploration, reporting, and further analysis.  We are looking for a well-rounded engineer who has good design sense.  The ideal candidate pays close attention to details -- caring about the quality of the input data as well as how the processed data is ultimately interpreted and used.  You are also a team player -- ready to contribute during design sessions, and able to give and receive constructive code reviews.  Your curiosity drives you to explore new technologies and apply creative solutions to problems.</description>
+      <additionalRequirements>* Build large scale web-based projects and features, ensuring robust &amp; maintainable solutions are implemented with special attention to performance and usability details.
+* Effectively demonstrate feature prototypes to executives
+* Develop, advocate for, and build consensus on, coding best practices.
+* Ability to effectively work with cross functional teams to understand requirements and identify design and engineering impacts
+* Experience with architecting web applications that scale to millions of requests per second is highly preferred.</additionalRequirements>
+      <educationDetails>BS degree in Computer Science or a related field</educationDetails>
+      <preferredQualifications nil="true"/>
+      <keyQualifications>Proficiency in MapReduce development and experience with Hadoop or other data processing technologies required
+Knowledge of Hadoop-related technologies such as Azkaban, Oozie, Impala, Hive, Pig, and Splunk 
+Experience developing large-scale web-based systems
+Strong object-oriented design skills, coupled with a deep knowledge of data structures and algorithms
+Excellent debugging, critical thinking, and communication skills
+Able to gather cross-functional requirements and translate them into practical engineering tasks
+5+ years of programming experience, preferably in Java or C/C++
+
+</keyQualifications>
+      <keyMatchingTerms>Javascript, DOM, CSS, HTML, Java, Web Application, SQL, Hibernate, Enterprise Objects Framework, Apache Solr, Apache Lucene, Cassandra</keyMatchingTerms>
+      <jobComments>The iTunes Store is looking for a top-notch Big Data engineer to develop an analytics infrastructure that will generate insights into customer experiences on products such as the iTunes Store, App Store, and iBookstore.  Our products reach hundreds of millions of customers around the world, and have revolutionized how people interact with their music, movies, TV shows, apps, books, and podcasts. </jobComments>
+      <reqDescription>The iTunes Store Analytics team is responsible for collecting, analyzing, and reporting on customer experience data.  From this data we generate insights into how customers interact with our products, and use these insights to drive improvements to user-facing features.  You will be working on a small team and will be responsible for processing large amounts of data and preparing that data for visualization, ad-hoc exploration, reporting, and further analysis.  We are looking for a well-rounded engineer who has good design sense.  The ideal candidate pays close attention to details -- caring about the quality of the input data as well as how the processed data is ultimately interpreted and used.  You are also a team player -- ready to contribute during design sessions, and able to give and receive constructive code reviews.  Your curiosity drives you to explore new technologies and apply creative solutions to problems.</reqDescription>
+    </reqTextFields>
+    <languageList type="array">
+      <languageList>
+        <languageCode>en_US</languageCode>
+        <languageName>English</languageName>
+        <spokenLangIndicator nil="true"/>
+        <writtenLangIndicator nil="true"/>
+        <correspondenceLangIndicator nil="true"/>
+        <recruitmentLangSkill nil="true"/>
+        <modfdDate nil="true"/>
+        <modfdUser nil="true"/>
+        <displayLanguageName nil="true"/>
+        <localeName nil="true"/>
+        <id>en_US</id>
+      </languageList>
+    </languageList>
+    <errorMessage>None</errorMessage>
+    <jobDescLangCode>en_US</jobDescLangCode>
+    <localizedJobDescLabels>
+      <localizedPrefQualifications>Preferred Qualifications</localizedPrefQualifications>
+      <localizedShift>Shift:</localizedShift>
+      <localizedJobNumber>Job Number:</localizedJobNumber>
+      <localizedHighJobTitle>High Job Title:</localizedHighJobTitle>
+      <localizedNo>No</localizedNo>
+      <localizedYes>Yes</localizedYes>
+      <localizedEmploymentType>Employment Type:</localizedEmploymentType>
+      <localizedPreferredCandidateIdentified>Preferred Candidate Identified:</localizedPreferredCandidateIdentified>
+      <localizedJobSummary>Job Summary</localizedJobSummary>
+      <localizedWeeklyHours>Weekly Hours:</localizedWeeklyHours>
+      <localizedCompany>Company:</localizedCompany>
+      <localizedAddtlRequirements>Additional Requirements</localizedAddtlRequirements>
+      <localizedGlSite>GL Site/Dept Name:</localizedGlSite>
+      <localizedCorporateJob>Corporate</localizedCorporateJob>
+      <localizedHomeOffice>Home Office:</localizedHomeOffice>
+      <localizedHiringManager>Hiring Manager:</localizedHiringManager>
+      <localizedEverGreen>29-Dec-2015</localizedEverGreen>
+      <localizedPosted>Posted:</localizedPosted>
+      <localizedEducation>Education</localizedEducation>
+      <localizedKeyMatchingTerms>Key Matching Terms</localizedKeyMatchingTerms>
+      <localizedRecruiter>Recruiter:</localizedRecruiter>
+      <localizedKeyQualifications>Key Qualifications</localizedKeyQualifications>
+      <localizedDescription>Description</localizedDescription>
+      <localizedLowJobTitle>Low Job Title:</localizedLowJobTitle>
+      <localizedRetailStore>Retail Store </localizedRetailStore>
+    </localizedJobDescLabels>
+    <retailOrCorpReqType>CORPORATE_REQ</retailOrCorpReqType>
+  </Job>
+  <Job>
+    <requisitionInfo>
+      <postingTitle>Software Engineer - iOS Apps</postingTitle>
+      <formId type="integer">45071254</formId>
+      <reqOpenDt>24-Dec-2015</reqOpenDt>
+      <stdWklyHrs>40.00</stdWklyHrs>
+      <jobCdHigh nil="true"/>
+      <locationName>Santa Clara Valley</locationName>
+      <stateAbbr>California</stateAbbr>
+      <countryCode>United States</countryCode>
+      <reqDisplayStatusCode>3.1</reqDisplayStatusCode>
+      <homeofficeInd nil="true"/>
+      <preferredCandAvail nil="true"/>
+      <coCd nil="true"/>
+      <hiringMgrFirstName nil="true"/>
+      <hiringMgrPreferredName nil="true"/>
+      <hiringMgrLastName nil="true"/>
+      <recruiterFirstName nil="true"/>
+      <recruiterPreferredName nil="true"/>
+      <recruiterLastName nil="true"/>
+      <shiftCd nil="true"/>
+      <empmntTypeCd nil="true"/>
+      <jobCdLow nil="true"/>
+      <bgCode>USA</bgCode>
+      <glSiteNum nil="true"/>
+      <glDeptNum nil="true"/>
+      <reqOpenDate type="integer">1450939854000</reqOpenDate>
+      <postInternally>1</postInternally>
+      <postExternally>1</postExternally>
+      <confidentialInd>0</confidentialInd>
+      <wklyHourDispInd>1</wklyHourDispInd>
+    </requisitionInfo>
+    <jobComments> The iTunes iOS Mobile Applications team is looking for a proactive, creative product engineer to build the next generation of store, media and lifestyle applications.</jobComments>
+    <reqTextFields>
+      <description>Develop new and existing iPhone and iPad Applications for consumer media.  Meet with designers to help define and implement User Interface.  Build products that people want to use every day!
+
+Additional success factors:
+
+Multimedia software development experience
+Experience with CoreAnimation
+Experience using network-based resources 
+Experience writing multi-threaded, asynchronous code
+Experience working with the Objective-C to Javascript bridge
+Understanding of software design patterns and architectural principles
+Track record of optimizing code for size and performance on embedded platforms  </description>
+      <additionalRequirements></additionalRequirements>
+      <educationDetails>BS / BA degree in Computer Science or equivalent.</educationDetails>
+      <preferredQualifications nil="true"/>
+      <keyQualifications>Strong object-oriented programming and design skills
+Experience with the iOS SDK
+Experience with modern Javascript development
+Strong mobile application UI development skills
+Strong problem solving and critical thinking skills
+Passion for quality and attention to detail
+</keyQualifications>
+      <keyMatchingTerms>itunesserp0715</keyMatchingTerms>
+      <jobComments> The iTunes iOS Mobile Applications team is looking for a proactive, creative product engineer to build the next generation of store, media and lifestyle applications.</jobComments>
+      <reqDescription>Develop new and existing iPhone and iPad Applications for consumer media.  Meet with designers to help define and implement User Interface.  Build products that people want to use every day!
+
+Additional success factors:
+
+Multimedia software development experience
+Experience with CoreAnimation
+Experience using network-based resources 
+Experience writing multi-threaded, asynchronous code
+Experience working with the Objective-C to Javascript bridge
+Understanding of software design patterns and architectural principles
+Track record of optimizing code for size and performance on embedded platforms  </reqDescription>
+    </reqTextFields>
+    <languageList type="array">
+      <languageList>
+        <languageCode>en_US</languageCode>
+        <languageName>English</languageName>
+        <spokenLangIndicator nil="true"/>
+        <writtenLangIndicator nil="true"/>
+        <correspondenceLangIndicator nil="true"/>
+        <recruitmentLangSkill nil="true"/>
+        <modfdDate nil="true"/>
+        <modfdUser nil="true"/>
+        <displayLanguageName nil="true"/>
+        <localeName nil="true"/>
+        <id>en_US</id>
+      </languageList>
+    </languageList>
+    <errorMessage>None</errorMessage>
+    <jobDescLangCode>en_US</jobDescLangCode>
+    <localizedJobDescLabels>
+      <localizedPrefQualifications>Preferred Qualifications</localizedPrefQualifications>
+      <localizedShift>Shift:</localizedShift>
+      <localizedJobNumber>Job Number:</localizedJobNumber>
+      <localizedHighJobTitle>High Job Title:</localizedHighJobTitle>
+      <localizedNo>No</localizedNo>
+      <localizedYes>Yes</localizedYes>
+      <localizedEmploymentType>Employment Type:</localizedEmploymentType>
+      <localizedPreferredCandidateIdentified>Preferred Candidate Identified:</localizedPreferredCandidateIdentified>
+      <localizedJobSummary>Job Summary</localizedJobSummary>
+      <localizedWeeklyHours>Weekly Hours:</localizedWeeklyHours>
+      <localizedCompany>Company:</localizedCompany>
+      <localizedAddtlRequirements>Additional Requirements</localizedAddtlRequirements>
+      <localizedGlSite>GL Site/Dept Name:</localizedGlSite>
+      <localizedCorporateJob>Corporate</localizedCorporateJob>
+      <localizedHomeOffice>Home Office:</localizedHomeOffice>
+      <localizedHiringManager>Hiring Manager:</localizedHiringManager>
+      <localizedEverGreen>29-Dec-2015</localizedEverGreen>
+      <localizedPosted>Posted:</localizedPosted>
+      <localizedEducation>Education</localizedEducation>
+      <localizedKeyMatchingTerms>Key Matching Terms</localizedKeyMatchingTerms>
+      <localizedRecruiter>Recruiter:</localizedRecruiter>
+      <localizedKeyQualifications>Key Qualifications</localizedKeyQualifications>
+      <localizedDescription>Description</localizedDescription>
+      <localizedLowJobTitle>Low Job Title:</localizedLowJobTitle>
+      <localizedRetailStore>Retail Store </localizedRetailStore>
+    </localizedJobDescLabels>
+    <retailOrCorpReqType>CORPORATE_REQ</retailOrCorpReqType>
+  </Job>
+  <Job>
+    <requisitionInfo>
+      <postingTitle>Engineering Technician</postingTitle>
+      <formId type="integer">45240774</formId>
+      <reqOpenDt>24-Dec-2015</reqOpenDt>
+      <stdWklyHrs>40.00</stdWklyHrs>
+      <jobCdHigh nil="true"/>
+      <locationName>Santa Clara Valley</locationName>
+      <stateAbbr>California</stateAbbr>
+      <countryCode>United States</countryCode>
+      <reqDisplayStatusCode>3.1</reqDisplayStatusCode>
+      <homeofficeInd nil="true"/>
+      <preferredCandAvail nil="true"/>
+      <coCd nil="true"/>
+      <hiringMgrFirstName nil="true"/>
+      <hiringMgrPreferredName nil="true"/>
+      <hiringMgrLastName nil="true"/>
+      <recruiterFirstName nil="true"/>
+      <recruiterPreferredName nil="true"/>
+      <recruiterLastName nil="true"/>
+      <shiftCd nil="true"/>
+      <empmntTypeCd nil="true"/>
+      <jobCdLow nil="true"/>
+      <bgCode>USA</bgCode>
+      <glSiteNum nil="true"/>
+      <glDeptNum nil="true"/>
+      <reqOpenDate type="integer">1450916344000</reqOpenDate>
+      <postInternally>1</postInternally>
+      <postExternally>1</postExternally>
+      <confidentialInd>0</confidentialInd>
+      <wklyHourDispInd>1</wklyHourDispInd>
+    </requisitionInfo>
+    <jobComments>Battery Systems is looking for an Engineering Technician who will be responsible for executing engineering test programs as related to the development of batteries for Apple products.  You will have solid electrical background, experience with testing rechargeable batteries and collecting and analyzing large amounts of data.</jobComments>
+    <reqTextFields>
+      <description>•  Test cells and batteries with a variety of analytical lab equipment (examples:  Automated Cycle Test Equipment, Measurement gauges, Impedance Meter, Voltmeter).
+•  Execute detailed test procedures and accurately record/prepare test results and data analysis.
+•  Configure and run complex test setups using high accuracy test equipment.
+•  Assemble test fixtures and setups to facilitate product testing.
+•  Maintain and troubleshoot test equipment.
+•  Work closely with engineers to support battery development work.
+•  Report status on a regular basis.
+•  Must be able to work independently and as part of a team.
+</description>
+      <additionalRequirements>None</additionalRequirements>
+      <educationDetails>•  AS degree in electronics preferred.</educationDetails>
+      <preferredQualifications nil="true"/>
+      <keyQualifications>Educational background in Electrical Engineering. 
+Experience with basic electronics and electrical circuits.
+Solid PCB soldering and wire harness assembly skills.
+Strong troubleshooting skills.
+Ability to execute complex, detailed test procedures with just enough input from engineering.
+Familiarity with proper laboratory safety and housekeeping practices.
+Experience using Mac OS X and Windows OS and SW productivity tools.</keyQualifications>
+      <keyMatchingTerms></keyMatchingTerms>
+      <jobComments>Battery Systems is looking for an Engineering Technician who will be responsible for executing engineering test programs as related to the development of batteries for Apple products.  You will have solid electrical background, experience with testing rechargeable batteries and collecting and analyzing large amounts of data.</jobComments>
+      <reqDescription>•  Test cells and batteries with a variety of analytical lab equipment (examples:  Automated Cycle Test Equipment, Measurement gauges, Impedance Meter, Voltmeter).
+•  Execute detailed test procedures and accurately record/prepare test results and data analysis.
+•  Configure and run complex test setups using high accuracy test equipment.
+•  Assemble test fixtures and setups to facilitate product testing.
+•  Maintain and troubleshoot test equipment.
+•  Work closely with engineers to support battery development work.
+•  Report status on a regular basis.
+•  Must be able to work independently and as part of a team.
+</reqDescription>
+    </reqTextFields>
+    <languageList type="array">
+      <languageList>
+        <languageCode>en_US</languageCode>
+        <languageName>English</languageName>
+        <spokenLangIndicator nil="true"/>
+        <writtenLangIndicator nil="true"/>
+        <correspondenceLangIndicator nil="true"/>
+        <recruitmentLangSkill nil="true"/>
+        <modfdDate nil="true"/>
+        <modfdUser nil="true"/>
+        <displayLanguageName nil="true"/>
+        <localeName nil="true"/>
+        <id>en_US</id>
+      </languageList>
+    </languageList>
+    <errorMessage>None</errorMessage>
+    <jobDescLangCode>en_US</jobDescLangCode>
+    <localizedJobDescLabels>
+      <localizedPrefQualifications>Preferred Qualifications</localizedPrefQualifications>
+      <localizedShift>Shift:</localizedShift>
+      <localizedJobNumber>Job Number:</localizedJobNumber>
+      <localizedHighJobTitle>High Job Title:</localizedHighJobTitle>
+      <localizedNo>No</localizedNo>
+      <localizedYes>Yes</localizedYes>
+      <localizedEmploymentType>Employment Type:</localizedEmploymentType>
+      <localizedPreferredCandidateIdentified>Preferred Candidate Identified:</localizedPreferredCandidateIdentified>
+      <localizedJobSummary>Job Summary</localizedJobSummary>
+      <localizedWeeklyHours>Weekly Hours:</localizedWeeklyHours>
+      <localizedCompany>Company:</localizedCompany>
+      <localizedAddtlRequirements>Additional Requirements</localizedAddtlRequirements>
+      <localizedGlSite>GL Site/Dept Name:</localizedGlSite>
+      <localizedCorporateJob>Corporate</localizedCorporateJob>
+      <localizedHomeOffice>Home Office:</localizedHomeOffice>
+      <localizedHiringManager>Hiring Manager:</localizedHiringManager>
+      <localizedEverGreen>29-Dec-2015</localizedEverGreen>
+      <localizedPosted>Posted:</localizedPosted>
+      <localizedEducation>Education</localizedEducation>
+      <localizedKeyMatchingTerms>Key Matching Terms</localizedKeyMatchingTerms>
+      <localizedRecruiter>Recruiter:</localizedRecruiter>
+      <localizedKeyQualifications>Key Qualifications</localizedKeyQualifications>
+      <localizedDescription>Description</localizedDescription>
+      <localizedLowJobTitle>Low Job Title:</localizedLowJobTitle>
+      <localizedRetailStore>Retail Store </localizedRetailStore>
+    </localizedJobDescLabels>
+    <retailOrCorpReqType>CORPORATE_REQ</retailOrCorpReqType>
+  </Job>
+  <Job>
+    <requisitionInfo>
+      <postingTitle>Receptionist</postingTitle>
+      <formId type="integer">45201700</formId>
+      <reqOpenDt>24-Dec-2015</reqOpenDt>
+      <stdWklyHrs>40.00</stdWklyHrs>
+      <jobCdHigh nil="true"/>
+      <locationName>Santa Clara Valley</locationName>
+      <stateAbbr>California</stateAbbr>
+      <countryCode>United States</countryCode>
+      <reqDisplayStatusCode>3.1</reqDisplayStatusCode>
+      <homeofficeInd nil="true"/>
+      <preferredCandAvail nil="true"/>
+      <coCd nil="true"/>
+      <hiringMgrFirstName nil="true"/>
+      <hiringMgrPreferredName nil="true"/>
+      <hiringMgrLastName nil="true"/>
+      <recruiterFirstName nil="true"/>
+      <recruiterPreferredName nil="true"/>
+      <recruiterLastName nil="true"/>
+      <shiftCd nil="true"/>
+      <empmntTypeCd nil="true"/>
+      <jobCdLow nil="true"/>
+      <bgCode>USA</bgCode>
+      <glSiteNum nil="true"/>
+      <glDeptNum nil="true"/>
+      <reqOpenDate type="integer">1450915715000</reqOpenDate>
+      <postInternally>1</postInternally>
+      <postExternally>1</postExternally>
+      <confidentialInd>0</confidentialInd>
+      <wklyHourDispInd>1</wklyHourDispInd>
+    </requisitionInfo>
+    <jobComments>The Apple Receptionist greets all guests with a professional, courteous, and respectful demeanor.
+</jobComments>
+    <reqTextFields>
+      <description>The successful candidate will be a team player who enjoys taking on small tasks or projects to support the company. The ability to multi-task with excellent interpersonal communication skills is a must. This role may include assisting other administrative staff with overflow work, including word processing, data entry and internet research tasks. </description>
+      <additionalRequirements></additionalRequirements>
+      <educationDetails></educationDetails>
+      <preferredQualifications nil="true"/>
+      <keyQualifications>Excellent Communication Skills
+Ability to Multi-Task
+Professional Composure
+Customer Service Experience
+Computer Skills
+Team Player</keyQualifications>
+      <keyMatchingTerms></keyMatchingTerms>
+      <jobComments>The Apple Receptionist greets all guests with a professional, courteous, and respectful demeanor.
+</jobComments>
+      <reqDescription>The successful candidate will be a team player who enjoys taking on small tasks or projects to support the company. The ability to multi-task with excellent interpersonal communication skills is a must. This role may include assisting other administrative staff with overflow work, including word processing, data entry and internet research tasks. </reqDescription>
+    </reqTextFields>
+    <languageList type="array">
+      <languageList>
+        <languageCode>en_US</languageCode>
+        <languageName>English</languageName>
+        <spokenLangIndicator nil="true"/>
+        <writtenLangIndicator nil="true"/>
+        <correspondenceLangIndicator nil="true"/>
+        <recruitmentLangSkill nil="true"/>
+        <modfdDate nil="true"/>
+        <modfdUser nil="true"/>
+        <displayLanguageName nil="true"/>
+        <localeName nil="true"/>
+        <id>en_US</id>
+      </languageList>
+    </languageList>
+    <errorMessage>None</errorMessage>
+    <jobDescLangCode>en_US</jobDescLangCode>
+    <localizedJobDescLabels>
+      <localizedPrefQualifications>Preferred Qualifications</localizedPrefQualifications>
+      <localizedShift>Shift:</localizedShift>
+      <localizedJobNumber>Job Number:</localizedJobNumber>
+      <localizedHighJobTitle>High Job Title:</localizedHighJobTitle>
+      <localizedNo>No</localizedNo>
+      <localizedYes>Yes</localizedYes>
+      <localizedEmploymentType>Employment Type:</localizedEmploymentType>
+      <localizedPreferredCandidateIdentified>Preferred Candidate Identified:</localizedPreferredCandidateIdentified>
+      <localizedJobSummary>Job Summary</localizedJobSummary>
+      <localizedWeeklyHours>Weekly Hours:</localizedWeeklyHours>
+      <localizedCompany>Company:</localizedCompany>
+      <localizedAddtlRequirements>Additional Requirements</localizedAddtlRequirements>
+      <localizedGlSite>GL Site/Dept Name:</localizedGlSite>
+      <localizedCorporateJob>Corporate</localizedCorporateJob>
+      <localizedHomeOffice>Home Office:</localizedHomeOffice>
+      <localizedHiringManager>Hiring Manager:</localizedHiringManager>
+      <localizedEverGreen>29-Dec-2015</localizedEverGreen>
+      <localizedPosted>Posted:</localizedPosted>
+      <localizedEducation>Education</localizedEducation>
+      <localizedKeyMatchingTerms>Key Matching Terms</localizedKeyMatchingTerms>
+      <localizedRecruiter>Recruiter:</localizedRecruiter>
+      <localizedKeyQualifications>Key Qualifications</localizedKeyQualifications>
+      <localizedDescription>Description</localizedDescription>
+      <localizedLowJobTitle>Low Job Title:</localizedLowJobTitle>
+      <localizedRetailStore>Retail Store </localizedRetailStore>
+    </localizedJobDescLabels>
+    <retailOrCorpReqType>CORPORATE_REQ</retailOrCorpReqType>
+  </Job>
+  <Job>
+    <requisitionInfo>
+      <retailPositionTypeCode>USABM</retailPositionTypeCode>
+      <retailPositionTypeName>US-Business Manager</retailPositionTypeName>
+      <activeIndicator>1</activeIndicator>
+      <modifiedDate>2015-11-05</modifiedDate>
+      <modifiedUser type="integer">250736249</modifiedUser>
+      <globalPositionTypeCode>BP</globalPositionTypeCode>
+      <countryCode>United States</countryCode>
+      <postingTitle>US-Business Manager</postingTitle>
+      <cpSearchInd nil="true"/>
+      <questionnaireTemplateCode>28</questionnaireTemplateCode>
+      <postingCategory1>RET</postingCategory1>
+      <postingCategory2 nil="true"/>
+      <jobSummary>Being a Business Manager at an Apple Store means you’re the catalyst for businesses to discover and leverage the power, ease, and flexibility of Apple solutions. You meet with customers on the sales floor, surrounded by Apple technology. You lead and manage a team that’s passionate about delivering smart solutions and services to business customers. As a leader, you’re enriched by motivating your staff and developing strategies to build business for Apple and for our customers.</jobSummary>
+      <keyQualifications>Experience in leading, developing, and coaching teams, preferably within a business or sales setting.
+Extensive knowledge of how businesses use technology.
+Proven success in sales — lead generation, acquisitions, and relationship management. </keyQualifications>
+      <posDescription>As a Business Manager, you work with business professionals and entrepreneurs to discover and create innovative solutions that can help their companies succeed. As a member of the leadership team, you hire, coach, and develop the Business Team as well as educate other personnel about our unique business services. You generate new leads and build relationships, connecting over the phone or through in-store workshops and events. You discover customer needs through consultations, and use your sharp communication skills to prepare and present proposals. And you leverage relationships with internal Apple groups and other partners to develop business and generate additional revenue, while tracking your success with various metrics. By engaging customers to think about the possibilities of Apple technology in their businesses, you help build success  - not only for Apple, but for our customers as well. </posDescription>
+      <education nil="true"/>
+      <addRequirements>•You have demonstrated leadership ability with at least five years of experience in a business setting and at least three years of experience in customer-facing sales in a business solutions environment.
+•You have strong people and presentation skills and excellent written and verbal communication skills. 
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs. </addRequirements>
+      <keyMatchingTerms nil="true"/>
+      <visibleCCSearch>1</visibleCCSearch>
+      <jobCodeVarious>Various</jobCodeVarious>
+      <globalPositionType>RTL</globalPositionType>
+      <id>USABM</id>
+    </requisitionInfo>
+    <reqTextFields>
+      <description>As a Business Manager, you work with business professionals and entrepreneurs to discover and create innovative solutions that can help their companies succeed. As a member of the leadership team, you hire, coach, and develop the Business Team as well as educate other personnel about our unique business services. You generate new leads and build relationships, connecting over the phone or through in-store workshops and events. You discover customer needs through consultations, and use your sharp communication skills to prepare and present proposals. And you leverage relationships with internal Apple groups and other partners to develop business and generate additional revenue, while tracking your success with various metrics. By engaging customers to think about the possibilities of Apple technology in their businesses, you help build success  - not only for Apple, but for our customers as well. </description>
+      <additionalRequirements>•You have demonstrated leadership ability with at least five years of experience in a business setting and at least three years of experience in customer-facing sales in a business solutions environment.
+•You have strong people and presentation skills and excellent written and verbal communication skills. 
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs. </additionalRequirements>
+      <educationDetails></educationDetails>
+      <preferredQualifications nil="true"/>
+      <keyQualifications>Experience in leading, developing, and coaching teams, preferably within a business or sales setting.
+Extensive knowledge of how businesses use technology.
+Proven success in sales — lead generation, acquisitions, and relationship management. </keyQualifications>
+      <keyMatchingTerms></keyMatchingTerms>
+      <jobComments>Being a Business Manager at an Apple Store means you’re the catalyst for businesses to discover and leverage the power, ease, and flexibility of Apple solutions. You meet with customers on the sales floor, surrounded by Apple technology. You lead and manage a team that’s passionate about delivering smart solutions and services to business customers. As a leader, you’re enriched by motivating your staff and developing strategies to build business for Apple and for our customers.</jobComments>
+      <reqDescription>As a Business Manager, you work with business professionals and entrepreneurs to discover and create innovative solutions that can help their companies succeed. As a member of the leadership team, you hire, coach, and develop the Business Team as well as educate other personnel about our unique business services. You generate new leads and build relationships, connecting over the phone or through in-store workshops and events. You discover customer needs through consultations, and use your sharp communication skills to prepare and present proposals. And you leverage relationships with internal Apple groups and other partners to develop business and generate additional revenue, while tracking your success with various metrics. By engaging customers to think about the possibilities of Apple technology in their businesses, you help build success  - not only for Apple, but for our customers as well. </reqDescription>
+    </reqTextFields>
+    <jobComments>Being a Business Manager at an Apple Store means you’re the catalyst for businesses to discover and leverage the power, ease, and flexibility of Apple solutions. You meet with customers on the sales floor, surrounded by Apple technology. You lead and manage a team that’s passionate about delivering smart solutions and services to business customers. As a leader, you’re enriched by motivating your staff and developing strategies to build business for Apple and for our customers.</jobComments>
+    <languageList type="array">
+      <languageList>
+        <languageCode>en_US</languageCode>
+        <languageName>English</languageName>
+        <spokenLangIndicator nil="true"/>
+        <writtenLangIndicator nil="true"/>
+        <correspondenceLangIndicator nil="true"/>
+        <recruitmentLangSkill nil="true"/>
+        <modfdDate nil="true"/>
+        <modfdUser nil="true"/>
+        <displayLanguageName nil="true"/>
+        <localeName nil="true"/>
+        <id>en_US</id>
+      </languageList>
+    </languageList>
+    <errorMessage>None</errorMessage>
+    <jobDescLangCode>en_US</jobDescLangCode>
+    <localizedJobDescLabels>
+      <localizedPrefQualifications>Preferred Qualifications</localizedPrefQualifications>
+      <localizedShift>Shift:</localizedShift>
+      <localizedJobNumber>Job Number:</localizedJobNumber>
+      <localizedHighJobTitle>High Job Title:</localizedHighJobTitle>
+      <localizedNo>No</localizedNo>
+      <localizedYes>Yes</localizedYes>
+      <localizedEmploymentType>Employment Type:</localizedEmploymentType>
+      <localizedPreferredCandidateIdentified>Preferred Candidate Identified:</localizedPreferredCandidateIdentified>
+      <localizedJobSummary>Job Summary</localizedJobSummary>
+      <localizedWeeklyHours>Weekly Hours:</localizedWeeklyHours>
+      <localizedCompany>Company:</localizedCompany>
+      <localizedAddtlRequirements>Additional Requirements</localizedAddtlRequirements>
+      <localizedGlSite>GL Site/Dept Name:</localizedGlSite>
+      <localizedCorporateJob>Corporate</localizedCorporateJob>
+      <localizedHomeOffice>Home Office:</localizedHomeOffice>
+      <localizedHiringManager>Hiring Manager:</localizedHiringManager>
+      <localizedEverGreen>Dec. 29, 2015</localizedEverGreen>
+      <localizedPosted>Posted:</localizedPosted>
+      <localizedEducation>Education</localizedEducation>
+      <localizedKeyMatchingTerms>Key Matching Terms</localizedKeyMatchingTerms>
+      <localizedRecruiter>Recruiter:</localizedRecruiter>
+      <localizedKeyQualifications>Key Qualifications</localizedKeyQualifications>
+      <localizedDescription>Description</localizedDescription>
+      <localizedLowJobTitle>Low Job Title:</localizedLowJobTitle>
+      <localizedRetailStore>Retail Store </localizedRetailStore>
+    </localizedJobDescLabels>
+  </Job>
+  <Job>
+    <requisitionInfo>
+      <retailPositionTypeCode>USABS</retailPositionTypeCode>
+      <retailPositionTypeName>US-Business Specialist</retailPositionTypeName>
+      <activeIndicator>1</activeIndicator>
+      <modifiedDate>2015-11-05</modifiedDate>
+      <modifiedUser type="integer">250736249</modifiedUser>
+      <globalPositionTypeCode>BSP</globalPositionTypeCode>
+      <countryCode>United States</countryCode>
+      <postingTitle>US-Business Specialist</postingTitle>
+      <cpSearchInd nil="true"/>
+      <questionnaireTemplateCode>35</questionnaireTemplateCode>
+      <postingCategory1>RET</postingCategory1>
+      <postingCategory2 nil="true"/>
+      <jobSummary>At the Apple Store, you connect business professionals and entrepreneurs with the tools they need in order to put Apple solutions to work in their businesses. As a Business Specialist, you help them learn about Apple products and explore various possibilities. You’re part of a team that’s passionate about helping businesses succeed. With your understanding of business needs and enthusiasm for Apple, you find great satisfaction in offering powerful, innovative solutions to each customer. </jobSummary>
+      <keyQualifications>Knowledge of how businesses use technology and what Apple solutions can offer them.
+Comfort using the phone to interact with customers and to position business solutions.
+Ability to facilitate business experiences through in-store briefings, workshops, and events.</keyQualifications>
+      <posDescription>As a Business Specialist, you introduce Apple solutions, technology, and services to business customers. You spend time on the sales floor, meeting first-time and current business customers and learning their needs. You generate new leads and build relationships, connecting over the phone or through in-store workshops and events. You discover customer needs through briefings and work with the Business Team to prepare and present proposals. For customers with more complex needs, you work with the entire Business Team to craft the ideal solutions. Finally, you inform and offer customers the complete suite of sales support options. By engaging customers to think about the possibilities of Apple technology in their businesses, you help build success  - not only for your team, but for our customers as well. </posDescription>
+      <education nil="true"/>
+      <addRequirements>•You have at least one year of experience selling in the business market. 
+•You’re comfortable developing qualified leads by phone.
+•You have strong people and presentation skills, and excellent written and verbal communication skills. 
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs.</addRequirements>
+      <keyMatchingTerms nil="true"/>
+      <visibleCCSearch>1</visibleCCSearch>
+      <jobCodeVarious>Various</jobCodeVarious>
+      <globalPositionType>RTL</globalPositionType>
+      <id>USABS</id>
+    </requisitionInfo>
+    <reqTextFields>
+      <description>As a Business Specialist, you introduce Apple solutions, technology, and services to business customers. You spend time on the sales floor, meeting first-time and current business customers and learning their needs. You generate new leads and build relationships, connecting over the phone or through in-store workshops and events. You discover customer needs through briefings and work with the Business Team to prepare and present proposals. For customers with more complex needs, you work with the entire Business Team to craft the ideal solutions. Finally, you inform and offer customers the complete suite of sales support options. By engaging customers to think about the possibilities of Apple technology in their businesses, you help build success  - not only for your team, but for our customers as well. </description>
+      <additionalRequirements>•You have at least one year of experience selling in the business market. 
+•You’re comfortable developing qualified leads by phone.
+•You have strong people and presentation skills, and excellent written and verbal communication skills. 
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs.</additionalRequirements>
+      <educationDetails></educationDetails>
+      <preferredQualifications nil="true"/>
+      <keyQualifications>Knowledge of how businesses use technology and what Apple solutions can offer them.
+Comfort using the phone to interact with customers and to position business solutions.
+Ability to facilitate business experiences through in-store briefings, workshops, and events.</keyQualifications>
+      <keyMatchingTerms></keyMatchingTerms>
+      <jobComments>At the Apple Store, you connect business professionals and entrepreneurs with the tools they need in order to put Apple solutions to work in their businesses. As a Business Specialist, you help them learn about Apple products and explore various possibilities. You’re part of a team that’s passionate about helping businesses succeed. With your understanding of business needs and enthusiasm for Apple, you find great satisfaction in offering powerful, innovative solutions to each customer. </jobComments>
+      <reqDescription>As a Business Specialist, you introduce Apple solutions, technology, and services to business customers. You spend time on the sales floor, meeting first-time and current business customers and learning their needs. You generate new leads and build relationships, connecting over the phone or through in-store workshops and events. You discover customer needs through briefings and work with the Business Team to prepare and present proposals. For customers with more complex needs, you work with the entire Business Team to craft the ideal solutions. Finally, you inform and offer customers the complete suite of sales support options. By engaging customers to think about the possibilities of Apple technology in their businesses, you help build success  - not only for your team, but for our customers as well. </reqDescription>
+    </reqTextFields>
+    <jobComments>At the Apple Store, you connect business professionals and entrepreneurs with the tools they need in order to put Apple solutions to work in their businesses. As a Business Specialist, you help them learn about Apple products and explore various possibilities. You’re part of a team that’s passionate about helping businesses succeed. With your understanding of business needs and enthusiasm for Apple, you find great satisfaction in offering powerful, innovative solutions to each customer. </jobComments>
+    <languageList type="array">
+      <languageList>
+        <languageCode>en_US</languageCode>
+        <languageName>English</languageName>
+        <spokenLangIndicator nil="true"/>
+        <writtenLangIndicator nil="true"/>
+        <correspondenceLangIndicator nil="true"/>
+        <recruitmentLangSkill nil="true"/>
+        <modfdDate nil="true"/>
+        <modfdUser nil="true"/>
+        <displayLanguageName nil="true"/>
+        <localeName nil="true"/>
+        <id>en_US</id>
+      </languageList>
+    </languageList>
+    <errorMessage>None</errorMessage>
+    <jobDescLangCode>en_US</jobDescLangCode>
+    <localizedJobDescLabels>
+      <localizedPrefQualifications>Preferred Qualifications</localizedPrefQualifications>
+      <localizedShift>Shift:</localizedShift>
+      <localizedJobNumber>Job Number:</localizedJobNumber>
+      <localizedHighJobTitle>High Job Title:</localizedHighJobTitle>
+      <localizedNo>No</localizedNo>
+      <localizedYes>Yes</localizedYes>
+      <localizedEmploymentType>Employment Type:</localizedEmploymentType>
+      <localizedPreferredCandidateIdentified>Preferred Candidate Identified:</localizedPreferredCandidateIdentified>
+      <localizedJobSummary>Job Summary</localizedJobSummary>
+      <localizedWeeklyHours>Weekly Hours:</localizedWeeklyHours>
+      <localizedCompany>Company:</localizedCompany>
+      <localizedAddtlRequirements>Additional Requirements</localizedAddtlRequirements>
+      <localizedGlSite>GL Site/Dept Name:</localizedGlSite>
+      <localizedCorporateJob>Corporate</localizedCorporateJob>
+      <localizedHomeOffice>Home Office:</localizedHomeOffice>
+      <localizedHiringManager>Hiring Manager:</localizedHiringManager>
+      <localizedEverGreen>Dec. 29, 2015</localizedEverGreen>
+      <localizedPosted>Posted:</localizedPosted>
+      <localizedEducation>Education</localizedEducation>
+      <localizedKeyMatchingTerms>Key Matching Terms</localizedKeyMatchingTerms>
+      <localizedRecruiter>Recruiter:</localizedRecruiter>
+      <localizedKeyQualifications>Key Qualifications</localizedKeyQualifications>
+      <localizedDescription>Description</localizedDescription>
+      <localizedLowJobTitle>Low Job Title:</localizedLowJobTitle>
+      <localizedRetailStore>Retail Store </localizedRetailStore>
+    </localizedJobDescLabels>
+  </Job>
+  <Job>
+    <requisitionInfo>
+      <retailPositionTypeCode>USALP</retailPositionTypeCode>
+      <retailPositionTypeName>US-Apple Store Leader Program</retailPositionTypeName>
+      <activeIndicator>1</activeIndicator>
+      <modifiedDate>2015-11-05</modifiedDate>
+      <modifiedUser type="integer">250736249</modifiedUser>
+      <globalPositionTypeCode>ASLP</globalPositionTypeCode>
+      <countryCode>United States</countryCode>
+      <postingTitle>US-Apple Store Leader Program</postingTitle>
+      <cpSearchInd nil="true"/>
+      <questionnaireTemplateCode>5</questionnaireTemplateCode>
+      <postingCategory1>RET</postingCategory1>
+      <postingCategory2 nil="true"/>
+      <jobSummary>Learn and grow as you explore the art of leadership at the Apple Store. You’ll master our retail business inside and out through training, hands-on experience, and mentorship. As part of a team, you’ll learn through collaboration with those around you. As an individual, you’ll further your personal development by making a real impact on the success of your store. If you’re a natural leader, the Apple Store Leader Program is your opportunity to shine.</jobSummary>
+      <keyQualifications>Experience in leadership, whether at work, on a team, or in your community 
+Strong desire to lead a team that runs a multimillion-dollar, industry-leading retail operation</keyQualifications>
+      <posDescription>In the first year of this unique 24-month program, you rotate through various functions at our retail stores. During year two, you focus on leadership roles with top-level managers as your mentors and coaches. You learn as you work in each role, reflect on your experience, apply your insight, and share with your team. By offering your observations, you foster positive change in your store and at stores worldwide. When you’ve successfully completed the program with demonstrated leadership potential, you’ll have the opportunity to apply for a leadership position at a store in one of our key markets.</posDescription>
+      <education>To qualify, you must have a degree from a university or college, and a record of success in your studies or equivalent professional experience.</education>
+      <addRequirements>• You have a passion for technology and Apple.
+• You’re fluent in English. Experience interacting with different cultures, time spent traveling abroad, or familiarity with other languages is a plus. 
+• The global start date for the program is September 2016. Deadline for applications - February 26, 2016. 
+• You’ll need to be flexible with your schedule. Your work hours will be based on business needs.
+
+Submit your resume online along with a cover letter. Your cover letter should include the top three reasons why you would be a successful leader at one of our Apple Retail Stores.</addRequirements>
+      <keyMatchingTerms nil="true"/>
+      <visibleCCSearch>1</visibleCCSearch>
+      <jobCodeVarious>Various</jobCodeVarious>
+      <globalPositionType>RTL</globalPositionType>
+      <id>USALP</id>
+    </requisitionInfo>
+    <reqTextFields>
+      <description>In the first year of this unique 24-month program, you rotate through various functions at our retail stores. During year two, you focus on leadership roles with top-level managers as your mentors and coaches. You learn as you work in each role, reflect on your experience, apply your insight, and share with your team. By offering your observations, you foster positive change in your store and at stores worldwide. When you’ve successfully completed the program with demonstrated leadership potential, you’ll have the opportunity to apply for a leadership position at a store in one of our key markets.</description>
+      <additionalRequirements>• You have a passion for technology and Apple.
+• You’re fluent in English. Experience interacting with different cultures, time spent traveling abroad, or familiarity with other languages is a plus. 
+• The global start date for the program is September 2016. Deadline for applications - February 26, 2016. 
+• You’ll need to be flexible with your schedule. Your work hours will be based on business needs.
+
+Submit your resume online along with a cover letter. Your cover letter should include the top three reasons why you would be a successful leader at one of our Apple Retail Stores.</additionalRequirements>
+      <educationDetails>To qualify, you must have a degree from a university or college, and a record of success in your studies or equivalent professional experience.</educationDetails>
+      <preferredQualifications nil="true"/>
+      <keyQualifications>Experience in leadership, whether at work, on a team, or in your community 
+Strong desire to lead a team that runs a multimillion-dollar, industry-leading retail operation</keyQualifications>
+      <keyMatchingTerms></keyMatchingTerms>
+      <jobComments>Learn and grow as you explore the art of leadership at the Apple Store. You’ll master our retail business inside and out through training, hands-on experience, and mentorship. As part of a team, you’ll learn through collaboration with those around you. As an individual, you’ll further your personal development by making a real impact on the success of your store. If you’re a natural leader, the Apple Store Leader Program is your opportunity to shine.</jobComments>
+      <reqDescription>In the first year of this unique 24-month program, you rotate through various functions at our retail stores. During year two, you focus on leadership roles with top-level managers as your mentors and coaches. You learn as you work in each role, reflect on your experience, apply your insight, and share with your team. By offering your observations, you foster positive change in your store and at stores worldwide. When you’ve successfully completed the program with demonstrated leadership potential, you’ll have the opportunity to apply for a leadership position at a store in one of our key markets.</reqDescription>
+    </reqTextFields>
+    <jobComments>Learn and grow as you explore the art of leadership at the Apple Store. You’ll master our retail business inside and out through training, hands-on experience, and mentorship. As part of a team, you’ll learn through collaboration with those around you. As an individual, you’ll further your personal development by making a real impact on the success of your store. If you’re a natural leader, the Apple Store Leader Program is your opportunity to shine.</jobComments>
+    <languageList type="array">
+      <languageList>
+        <languageCode>en_US</languageCode>
+        <languageName>English</languageName>
+        <spokenLangIndicator nil="true"/>
+        <writtenLangIndicator nil="true"/>
+        <correspondenceLangIndicator nil="true"/>
+        <recruitmentLangSkill nil="true"/>
+        <modfdDate nil="true"/>
+        <modfdUser nil="true"/>
+        <displayLanguageName nil="true"/>
+        <localeName nil="true"/>
+        <id>en_US</id>
+      </languageList>
+    </languageList>
+    <errorMessage>None</errorMessage>
+    <jobDescLangCode>en_US</jobDescLangCode>
+    <localizedJobDescLabels>
+      <localizedPrefQualifications>Preferred Qualifications</localizedPrefQualifications>
+      <localizedShift>Shift:</localizedShift>
+      <localizedJobNumber>Job Number:</localizedJobNumber>
+      <localizedHighJobTitle>High Job Title:</localizedHighJobTitle>
+      <localizedNo>No</localizedNo>
+      <localizedYes>Yes</localizedYes>
+      <localizedEmploymentType>Employment Type:</localizedEmploymentType>
+      <localizedPreferredCandidateIdentified>Preferred Candidate Identified:</localizedPreferredCandidateIdentified>
+      <localizedJobSummary>Job Summary</localizedJobSummary>
+      <localizedWeeklyHours>Weekly Hours:</localizedWeeklyHours>
+      <localizedCompany>Company:</localizedCompany>
+      <localizedAddtlRequirements>Additional Requirements</localizedAddtlRequirements>
+      <localizedGlSite>GL Site/Dept Name:</localizedGlSite>
+      <localizedCorporateJob>Corporate</localizedCorporateJob>
+      <localizedHomeOffice>Home Office:</localizedHomeOffice>
+      <localizedHiringManager>Hiring Manager:</localizedHiringManager>
+      <localizedEverGreen>Dec. 29, 2015</localizedEverGreen>
+      <localizedPosted>Posted:</localizedPosted>
+      <localizedEducation>Education</localizedEducation>
+      <localizedKeyMatchingTerms>Key Matching Terms</localizedKeyMatchingTerms>
+      <localizedRecruiter>Recruiter:</localizedRecruiter>
+      <localizedKeyQualifications>Key Qualifications</localizedKeyQualifications>
+      <localizedDescription>Description</localizedDescription>
+      <localizedLowJobTitle>Low Job Title:</localizedLowJobTitle>
+      <localizedRetailStore>Retail Store </localizedRetailStore>
+    </localizedJobDescLabels>
+  </Job>
+  <Job>
+    <requisitionInfo>
+      <retailPositionTypeCode>USACR</retailPositionTypeCode>
+      <retailPositionTypeName>US-Creative</retailPositionTypeName>
+      <activeIndicator>1</activeIndicator>
+      <modifiedDate>2015-11-05</modifiedDate>
+      <modifiedUser type="integer">250736249</modifiedUser>
+      <globalPositionTypeCode>CRE</globalPositionTypeCode>
+      <countryCode>United States</countryCode>
+      <postingTitle>US-Creative</postingTitle>
+      <cpSearchInd nil="true"/>
+      <questionnaireTemplateCode>34</questionnaireTemplateCode>
+      <postingCategory1>RET</postingCategory1>
+      <postingCategory2 nil="true"/>
+      <jobSummary>You inspire creativity by sharing your knowledge with Apple Store visitors — whether they’re first-timers or longtime loyal customers. As a Creative, you’re the foundation of the Apple Store’s welcoming environment that invites individuals to share their ideas and learn how to bring their visions to life. Those who work alongside you are knowledgeable teammates just as eager to share their skills as they are to learn more. Nothing gives you a greater thrill than empowering a customer to create something wonderful. </jobSummary>
+      <keyQualifications>Passion for education and ability to instruct in a “hands-off” manner, letting users learn by doing. 
+Ability to teach small groups and coach multiple customers simultaneously.  
+Tenacity to work with users until they truly become independent and able to create on their own.</keyQualifications>
+      <posDescription>As a Creative, your main role at the Apple Store is that of instructor, whether guiding small groups to learn or helping individuals complete projects. You use your presentation skills to act as a facilitator, helping users get set up, get trained, and get going. But you're also an excellent listener, taking the time to understand what each user hopes to achieve or learn. By adjusting your teaching style to each user's individual skill level, you maximize his or her understanding and your own time. You recognize that purchasing a new product can sometimes help customers attain their goals. You spend much of your time leading scheduled training sessions, but you're still comfortable interacting with store customers between those sessions. You're proud to enrich the lives of others  - whether customers or team members  - through teaching, in the way only a Creative can. </posDescription>
+      <education nil="true"/>
+      <addRequirements>•You’re comfortable selling as well as teaching, helping your team members out as needed. 
+•You’re self-motivated and self-directed, and can adhere to a tightly structured training schedule.
+•You can be adept at recommending other in-store support options, such as business services and the Genius Bar.
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs.</addRequirements>
+      <keyMatchingTerms nil="true"/>
+      <visibleCCSearch>1</visibleCCSearch>
+      <jobCodeVarious>Various</jobCodeVarious>
+      <globalPositionType>RTL</globalPositionType>
+      <id>USACR</id>
+    </requisitionInfo>
+    <reqTextFields>
+      <description>As a Creative, your main role at the Apple Store is that of instructor, whether guiding small groups to learn or helping individuals complete projects. You use your presentation skills to act as a facilitator, helping users get set up, get trained, and get going. But you're also an excellent listener, taking the time to understand what each user hopes to achieve or learn. By adjusting your teaching style to each user's individual skill level, you maximize his or her understanding and your own time. You recognize that purchasing a new product can sometimes help customers attain their goals. You spend much of your time leading scheduled training sessions, but you're still comfortable interacting with store customers between those sessions. You're proud to enrich the lives of others  - whether customers or team members  - through teaching, in the way only a Creative can. </description>
+      <additionalRequirements>•You’re comfortable selling as well as teaching, helping your team members out as needed. 
+•You’re self-motivated and self-directed, and can adhere to a tightly structured training schedule.
+•You can be adept at recommending other in-store support options, such as business services and the Genius Bar.
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs.</additionalRequirements>
+      <educationDetails></educationDetails>
+      <preferredQualifications nil="true"/>
+      <keyQualifications>Passion for education and ability to instruct in a “hands-off” manner, letting users learn by doing. 
+Ability to teach small groups and coach multiple customers simultaneously.  
+Tenacity to work with users until they truly become independent and able to create on their own.</keyQualifications>
+      <keyMatchingTerms></keyMatchingTerms>
+      <jobComments>You inspire creativity by sharing your knowledge with Apple Store visitors — whether they’re first-timers or longtime loyal customers. As a Creative, you’re the foundation of the Apple Store’s welcoming environment that invites individuals to share their ideas and learn how to bring their visions to life. Those who work alongside you are knowledgeable teammates just as eager to share their skills as they are to learn more. Nothing gives you a greater thrill than empowering a customer to create something wonderful. </jobComments>
+      <reqDescription>As a Creative, your main role at the Apple Store is that of instructor, whether guiding small groups to learn or helping individuals complete projects. You use your presentation skills to act as a facilitator, helping users get set up, get trained, and get going. But you're also an excellent listener, taking the time to understand what each user hopes to achieve or learn. By adjusting your teaching style to each user's individual skill level, you maximize his or her understanding and your own time. You recognize that purchasing a new product can sometimes help customers attain their goals. You spend much of your time leading scheduled training sessions, but you're still comfortable interacting with store customers between those sessions. You're proud to enrich the lives of others  - whether customers or team members  - through teaching, in the way only a Creative can. </reqDescription>
+    </reqTextFields>
+    <jobComments>You inspire creativity by sharing your knowledge with Apple Store visitors — whether they’re first-timers or longtime loyal customers. As a Creative, you’re the foundation of the Apple Store’s welcoming environment that invites individuals to share their ideas and learn how to bring their visions to life. Those who work alongside you are knowledgeable teammates just as eager to share their skills as they are to learn more. Nothing gives you a greater thrill than empowering a customer to create something wonderful. </jobComments>
+    <languageList type="array">
+      <languageList>
+        <languageCode>en_US</languageCode>
+        <languageName>English</languageName>
+        <spokenLangIndicator nil="true"/>
+        <writtenLangIndicator nil="true"/>
+        <correspondenceLangIndicator nil="true"/>
+        <recruitmentLangSkill nil="true"/>
+        <modfdDate nil="true"/>
+        <modfdUser nil="true"/>
+        <displayLanguageName nil="true"/>
+        <localeName nil="true"/>
+        <id>en_US</id>
+      </languageList>
+    </languageList>
+    <errorMessage>None</errorMessage>
+    <jobDescLangCode>en_US</jobDescLangCode>
+    <localizedJobDescLabels>
+      <localizedPrefQualifications>Preferred Qualifications</localizedPrefQualifications>
+      <localizedShift>Shift:</localizedShift>
+      <localizedJobNumber>Job Number:</localizedJobNumber>
+      <localizedHighJobTitle>High Job Title:</localizedHighJobTitle>
+      <localizedNo>No</localizedNo>
+      <localizedYes>Yes</localizedYes>
+      <localizedEmploymentType>Employment Type:</localizedEmploymentType>
+      <localizedPreferredCandidateIdentified>Preferred Candidate Identified:</localizedPreferredCandidateIdentified>
+      <localizedJobSummary>Job Summary</localizedJobSummary>
+      <localizedWeeklyHours>Weekly Hours:</localizedWeeklyHours>
+      <localizedCompany>Company:</localizedCompany>
+      <localizedAddtlRequirements>Additional Requirements</localizedAddtlRequirements>
+      <localizedGlSite>GL Site/Dept Name:</localizedGlSite>
+      <localizedCorporateJob>Corporate</localizedCorporateJob>
+      <localizedHomeOffice>Home Office:</localizedHomeOffice>
+      <localizedHiringManager>Hiring Manager:</localizedHiringManager>
+      <localizedEverGreen>Dec. 29, 2015</localizedEverGreen>
+      <localizedPosted>Posted:</localizedPosted>
+      <localizedEducation>Education</localizedEducation>
+      <localizedKeyMatchingTerms>Key Matching Terms</localizedKeyMatchingTerms>
+      <localizedRecruiter>Recruiter:</localizedRecruiter>
+      <localizedKeyQualifications>Key Qualifications</localizedKeyQualifications>
+      <localizedDescription>Description</localizedDescription>
+      <localizedLowJobTitle>Low Job Title:</localizedLowJobTitle>
+      <localizedRetailStore>Retail Store </localizedRetailStore>
+    </localizedJobDescLabels>
+  </Job>
+  <Job>
+    <requisitionInfo>
+      <retailPositionTypeCode>USAEX</retailPositionTypeCode>
+      <retailPositionTypeName>US-Expert</retailPositionTypeName>
+      <activeIndicator>1</activeIndicator>
+      <modifiedDate>2015-11-05</modifiedDate>
+      <modifiedUser type="integer">250736249</modifiedUser>
+      <globalPositionTypeCode>EXP</globalPositionTypeCode>
+      <countryCode>United States</countryCode>
+      <postingTitle>US-Expert</postingTitle>
+      <cpSearchInd nil="true"/>
+      <questionnaireTemplateCode>21</questionnaireTemplateCode>
+      <postingCategory1>RET</postingCategory1>
+      <postingCategory2 nil="true"/>
+      <jobSummary>The Apple Store is a retail environment like no other — uniquely focused on delivering amazing customer experiences. As an Expert, you introduce people to the exciting world of Apple, turning curious visitors into loyal customers. You thrive on interactions with team members as well as with customers. And you get great satisfaction from helping people develop lifelong relationships with Apple every day.</jobSummary>
+      <keyQualifications>Demonstrated proficiency in technology, particularly Apple products, and the ability to quickly learn about new products.
+Proven experience in sales and technology solutions, as well as in developing customer loyalty.
+Ability to consistently deliver great customer experiences — no matter what the situation.</keyQualifications>
+      <posDescription>As an Expert, you are a leader in sales, product knowledge, and solutions, and highly influential in how you engage with customers. But you also know how to turn mild customer curiosity into intense interest  - and ownership. As new products and initiatives emerge, you are the first to learn, share, and inspire your team members through approachability and action. You always meet, and at times exceed, your established performance goals. You're proud to represent Apple, and you exemplify that in all your interactions with customers. </posDescription>
+      <education nil="true"/>
+      <addRequirements>•You’re passionate about Apple, and you inspire and educate others about all that Apple has to offer.
+•You can set the standard for Apple’s unique style of service through words and action.
+•You have strong people skills — you’re approachable, a good listener, and empathetic.
+•You can serve as an engaging role model to Specialists.
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs. </addRequirements>
+      <keyMatchingTerms nil="true"/>
+      <visibleCCSearch>1</visibleCCSearch>
+      <jobCodeVarious>Various</jobCodeVarious>
+      <globalPositionType>RTL</globalPositionType>
+      <id>USAEX</id>
+    </requisitionInfo>
+    <reqTextFields>
+      <description>As an Expert, you are a leader in sales, product knowledge, and solutions, and highly influential in how you engage with customers. But you also know how to turn mild customer curiosity into intense interest  - and ownership. As new products and initiatives emerge, you are the first to learn, share, and inspire your team members through approachability and action. You always meet, and at times exceed, your established performance goals. You're proud to represent Apple, and you exemplify that in all your interactions with customers. </description>
+      <additionalRequirements>•You’re passionate about Apple, and you inspire and educate others about all that Apple has to offer.
+•You can set the standard for Apple’s unique style of service through words and action.
+•You have strong people skills — you’re approachable, a good listener, and empathetic.
+•You can serve as an engaging role model to Specialists.
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs. </additionalRequirements>
+      <educationDetails></educationDetails>
+      <preferredQualifications nil="true"/>
+      <keyQualifications>Demonstrated proficiency in technology, particularly Apple products, and the ability to quickly learn about new products.
+Proven experience in sales and technology solutions, as well as in developing customer loyalty.
+Ability to consistently deliver great customer experiences — no matter what the situation.</keyQualifications>
+      <keyMatchingTerms></keyMatchingTerms>
+      <jobComments>The Apple Store is a retail environment like no other — uniquely focused on delivering amazing customer experiences. As an Expert, you introduce people to the exciting world of Apple, turning curious visitors into loyal customers. You thrive on interactions with team members as well as with customers. And you get great satisfaction from helping people develop lifelong relationships with Apple every day.</jobComments>
+      <reqDescription>As an Expert, you are a leader in sales, product knowledge, and solutions, and highly influential in how you engage with customers. But you also know how to turn mild customer curiosity into intense interest  - and ownership. As new products and initiatives emerge, you are the first to learn, share, and inspire your team members through approachability and action. You always meet, and at times exceed, your established performance goals. You're proud to represent Apple, and you exemplify that in all your interactions with customers. </reqDescription>
+    </reqTextFields>
+    <jobComments>The Apple Store is a retail environment like no other — uniquely focused on delivering amazing customer experiences. As an Expert, you introduce people to the exciting world of Apple, turning curious visitors into loyal customers. You thrive on interactions with team members as well as with customers. And you get great satisfaction from helping people develop lifelong relationships with Apple every day.</jobComments>
+    <languageList type="array">
+      <languageList>
+        <languageCode>en_US</languageCode>
+        <languageName>English</languageName>
+        <spokenLangIndicator nil="true"/>
+        <writtenLangIndicator nil="true"/>
+        <correspondenceLangIndicator nil="true"/>
+        <recruitmentLangSkill nil="true"/>
+        <modfdDate nil="true"/>
+        <modfdUser nil="true"/>
+        <displayLanguageName nil="true"/>
+        <localeName nil="true"/>
+        <id>en_US</id>
+      </languageList>
+    </languageList>
+    <errorMessage>None</errorMessage>
+    <jobDescLangCode>en_US</jobDescLangCode>
+    <localizedJobDescLabels>
+      <localizedPrefQualifications>Preferred Qualifications</localizedPrefQualifications>
+      <localizedShift>Shift:</localizedShift>
+      <localizedJobNumber>Job Number:</localizedJobNumber>
+      <localizedHighJobTitle>High Job Title:</localizedHighJobTitle>
+      <localizedNo>No</localizedNo>
+      <localizedYes>Yes</localizedYes>
+      <localizedEmploymentType>Employment Type:</localizedEmploymentType>
+      <localizedPreferredCandidateIdentified>Preferred Candidate Identified:</localizedPreferredCandidateIdentified>
+      <localizedJobSummary>Job Summary</localizedJobSummary>
+      <localizedWeeklyHours>Weekly Hours:</localizedWeeklyHours>
+      <localizedCompany>Company:</localizedCompany>
+      <localizedAddtlRequirements>Additional Requirements</localizedAddtlRequirements>
+      <localizedGlSite>GL Site/Dept Name:</localizedGlSite>
+      <localizedCorporateJob>Corporate</localizedCorporateJob>
+      <localizedHomeOffice>Home Office:</localizedHomeOffice>
+      <localizedHiringManager>Hiring Manager:</localizedHiringManager>
+      <localizedEverGreen>Dec. 29, 2015</localizedEverGreen>
+      <localizedPosted>Posted:</localizedPosted>
+      <localizedEducation>Education</localizedEducation>
+      <localizedKeyMatchingTerms>Key Matching Terms</localizedKeyMatchingTerms>
+      <localizedRecruiter>Recruiter:</localizedRecruiter>
+      <localizedKeyQualifications>Key Qualifications</localizedKeyQualifications>
+      <localizedDescription>Description</localizedDescription>
+      <localizedLowJobTitle>Low Job Title:</localizedLowJobTitle>
+      <localizedRetailStore>Retail Store </localizedRetailStore>
+    </localizedJobDescLabels>
+  </Job>
+  <Job>
+    <requisitionInfo>
+      <retailPositionTypeCode>USAGN</retailPositionTypeCode>
+      <retailPositionTypeName>US-Genius</retailPositionTypeName>
+      <activeIndicator>1</activeIndicator>
+      <modifiedDate>2015-11-05</modifiedDate>
+      <modifiedUser type="integer">250736249</modifiedUser>
+      <globalPositionTypeCode>GEN</globalPositionTypeCode>
+      <countryCode>United States</countryCode>
+      <postingTitle>US-Genius</postingTitle>
+      <cpSearchInd nil="true"/>
+      <questionnaireTemplateCode>18</questionnaireTemplateCode>
+      <postingCategory1>RET</postingCategory1>
+      <postingCategory2 nil="true"/>
+      <jobSummary>At the Apple Store, you maintain customers’ trust in Apple as the skilled expert, troubleshooting and repairing products. You use problem-solving and people skills to assure Genius Bar customers of swift resolutions to their technical problems. You also educate your team members about products, while independently keeping your own technical know-how up to date. With your customer service brilliance and empathetic nature, you provide Genius advice and support every day.</jobSummary>
+      <keyQualifications>Strong people skills and a knack for problem solving.
+Ability to maintain composure and customer focus while troubleshooting and solving technical issues.
+Ability to adhere to a schedule of customer appointments.</keyQualifications>
+      <posDescription>As a Genius, you provide insightful advice and friendly, hands-on technical support to Apple customers in need. You quickly diagnose product issues on the spot, explaining situations with patience and empathy. After determining whether repairs can be done or a replacement is needed, you offer solutions to quickly get users up and running again. Even if you're juggling more than one customer, you stay conscious of their time demands as well as your own. You fulfill Apple's service commitment with style, speed, and skill. And you earn the trust of customers and coworkers alike as you offer guidance, knowledge, and even tips and training. </posDescription>
+      <education nil="true"/>
+      <addRequirements>•You have an aptitude for acquiring skills in technical repairs and an eagerness to learn. 
+•You have excellent time management skills and can make decisions quickly.
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs.</addRequirements>
+      <keyMatchingTerms nil="true"/>
+      <visibleCCSearch>1</visibleCCSearch>
+      <jobCodeVarious>Various</jobCodeVarious>
+      <globalPositionType>RTL</globalPositionType>
+      <id>USAGN</id>
+    </requisitionInfo>
+    <reqTextFields>
+      <description>As a Genius, you provide insightful advice and friendly, hands-on technical support to Apple customers in need. You quickly diagnose product issues on the spot, explaining situations with patience and empathy. After determining whether repairs can be done or a replacement is needed, you offer solutions to quickly get users up and running again. Even if you're juggling more than one customer, you stay conscious of their time demands as well as your own. You fulfill Apple's service commitment with style, speed, and skill. And you earn the trust of customers and coworkers alike as you offer guidance, knowledge, and even tips and training. </description>
+      <additionalRequirements>•You have an aptitude for acquiring skills in technical repairs and an eagerness to learn. 
+•You have excellent time management skills and can make decisions quickly.
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs.</additionalRequirements>
+      <educationDetails></educationDetails>
+      <preferredQualifications nil="true"/>
+      <keyQualifications>Strong people skills and a knack for problem solving.
+Ability to maintain composure and customer focus while troubleshooting and solving technical issues.
+Ability to adhere to a schedule of customer appointments.</keyQualifications>
+      <keyMatchingTerms></keyMatchingTerms>
+      <jobComments>At the Apple Store, you maintain customers’ trust in Apple as the skilled expert, troubleshooting and repairing products. You use problem-solving and people skills to assure Genius Bar customers of swift resolutions to their technical problems. You also educate your team members about products, while independently keeping your own technical know-how up to date. With your customer service brilliance and empathetic nature, you provide Genius advice and support every day.</jobComments>
+      <reqDescription>As a Genius, you provide insightful advice and friendly, hands-on technical support to Apple customers in need. You quickly diagnose product issues on the spot, explaining situations with patience and empathy. After determining whether repairs can be done or a replacement is needed, you offer solutions to quickly get users up and running again. Even if you're juggling more than one customer, you stay conscious of their time demands as well as your own. You fulfill Apple's service commitment with style, speed, and skill. And you earn the trust of customers and coworkers alike as you offer guidance, knowledge, and even tips and training. </reqDescription>
+    </reqTextFields>
+    <jobComments>At the Apple Store, you maintain customers’ trust in Apple as the skilled expert, troubleshooting and repairing products. You use problem-solving and people skills to assure Genius Bar customers of swift resolutions to their technical problems. You also educate your team members about products, while independently keeping your own technical know-how up to date. With your customer service brilliance and empathetic nature, you provide Genius advice and support every day.</jobComments>
+    <languageList type="array">
+      <languageList>
+        <languageCode>en_US</languageCode>
+        <languageName>English</languageName>
+        <spokenLangIndicator nil="true"/>
+        <writtenLangIndicator nil="true"/>
+        <correspondenceLangIndicator nil="true"/>
+        <recruitmentLangSkill nil="true"/>
+        <modfdDate nil="true"/>
+        <modfdUser nil="true"/>
+        <displayLanguageName nil="true"/>
+        <localeName nil="true"/>
+        <id>en_US</id>
+      </languageList>
+    </languageList>
+    <errorMessage>None</errorMessage>
+    <jobDescLangCode>en_US</jobDescLangCode>
+    <localizedJobDescLabels>
+      <localizedPrefQualifications>Preferred Qualifications</localizedPrefQualifications>
+      <localizedShift>Shift:</localizedShift>
+      <localizedJobNumber>Job Number:</localizedJobNumber>
+      <localizedHighJobTitle>High Job Title:</localizedHighJobTitle>
+      <localizedNo>No</localizedNo>
+      <localizedYes>Yes</localizedYes>
+      <localizedEmploymentType>Employment Type:</localizedEmploymentType>
+      <localizedPreferredCandidateIdentified>Preferred Candidate Identified:</localizedPreferredCandidateIdentified>
+      <localizedJobSummary>Job Summary</localizedJobSummary>
+      <localizedWeeklyHours>Weekly Hours:</localizedWeeklyHours>
+      <localizedCompany>Company:</localizedCompany>
+      <localizedAddtlRequirements>Additional Requirements</localizedAddtlRequirements>
+      <localizedGlSite>GL Site/Dept Name:</localizedGlSite>
+      <localizedCorporateJob>Corporate</localizedCorporateJob>
+      <localizedHomeOffice>Home Office:</localizedHomeOffice>
+      <localizedHiringManager>Hiring Manager:</localizedHiringManager>
+      <localizedEverGreen>Dec. 29, 2015</localizedEverGreen>
+      <localizedPosted>Posted:</localizedPosted>
+      <localizedEducation>Education</localizedEducation>
+      <localizedKeyMatchingTerms>Key Matching Terms</localizedKeyMatchingTerms>
+      <localizedRecruiter>Recruiter:</localizedRecruiter>
+      <localizedKeyQualifications>Key Qualifications</localizedKeyQualifications>
+      <localizedDescription>Description</localizedDescription>
+      <localizedLowJobTitle>Low Job Title:</localizedLowJobTitle>
+      <localizedRetailStore>Retail Store </localizedRetailStore>
+    </localizedJobDescLabels>
+  </Job>
+  <Job>
+    <requisitionInfo>
+      <retailPositionTypeCode>USAIS</retailPositionTypeCode>
+      <retailPositionTypeName>US-Inventory Specialist</retailPositionTypeName>
+      <activeIndicator>1</activeIndicator>
+      <modifiedDate>2015-11-05</modifiedDate>
+      <modifiedUser type="integer">250736249</modifiedUser>
+      <globalPositionTypeCode>IS</globalPositionTypeCode>
+      <countryCode>United States</countryCode>
+      <postingTitle>US-Inventory Specialist</postingTitle>
+      <cpSearchInd nil="true"/>
+      <questionnaireTemplateCode>16</questionnaireTemplateCode>
+      <postingCategory1>RET</postingCategory1>
+      <postingCategory2 nil="true"/>
+      <jobSummary>As an Inventory Specialist, you know better than anyone else the satisfaction of getting the latest Apple product into your hands. So it’s up to you to make sure customers are just as satisfied. By guiding and mentoring your team, you help keep pace with changing demands and make sure every product and demo machine is where it should be. At the end of the day, it’s your organizational skills and dedication that are at the heart of what the Apple Store does — connecting people to the products they love.</jobSummary>
+      <keyQualifications>Ability to think quickly and perform problem-solving tasks, even within changing conditions.
+Leadership skills, whether guiding by example or coaching a group. 
+Strong organizational skills, quickly evaluating every situation.</keyQualifications>
+      <posDescription>As an Inventory Specialist, you and your team have the incredible responsibility of ensuring products take the final step in the supply chain: getting into customers' hands. You're in charge of the store's entire inventory - products, parts, tools, supplies, and everything else. You make sure your team has the support, knowledge, and resources required to maintain product availability, complete inventory tasks, and keep the stockroom organized as new products arrive. You're in constant contact with the management and leadership teams, sharing data about the status of products and parts. And when exciting new products arrive, you're the first to open them up and present them to the entire store team. Apple makes the products, but you make it happen by being ready to place our products in customers' hands. </posDescription>
+      <education nil="true"/>
+      <addRequirements>•You can manage and meet multiple inventory deadlines each week. 
+•You’re willing to observe guidelines to allow secure access to products and movement through the stockroom. 
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs.</addRequirements>
+      <keyMatchingTerms nil="true"/>
+      <visibleCCSearch>1</visibleCCSearch>
+      <jobCodeVarious>Various</jobCodeVarious>
+      <globalPositionType>RTL</globalPositionType>
+      <id>USAIS</id>
+    </requisitionInfo>
+    <reqTextFields>
+      <description>As an Inventory Specialist, you and your team have the incredible responsibility of ensuring products take the final step in the supply chain: getting into customers' hands. You're in charge of the store's entire inventory - products, parts, tools, supplies, and everything else. You make sure your team has the support, knowledge, and resources required to maintain product availability, complete inventory tasks, and keep the stockroom organized as new products arrive. You're in constant contact with the management and leadership teams, sharing data about the status of products and parts. And when exciting new products arrive, you're the first to open them up and present them to the entire store team. Apple makes the products, but you make it happen by being ready to place our products in customers' hands. </description>
+      <additionalRequirements>•You can manage and meet multiple inventory deadlines each week. 
+•You’re willing to observe guidelines to allow secure access to products and movement through the stockroom. 
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs.</additionalRequirements>
+      <educationDetails></educationDetails>
+      <preferredQualifications nil="true"/>
+      <keyQualifications>Ability to think quickly and perform problem-solving tasks, even within changing conditions.
+Leadership skills, whether guiding by example or coaching a group. 
+Strong organizational skills, quickly evaluating every situation.</keyQualifications>
+      <keyMatchingTerms></keyMatchingTerms>
+      <jobComments>As an Inventory Specialist, you know better than anyone else the satisfaction of getting the latest Apple product into your hands. So it’s up to you to make sure customers are just as satisfied. By guiding and mentoring your team, you help keep pace with changing demands and make sure every product and demo machine is where it should be. At the end of the day, it’s your organizational skills and dedication that are at the heart of what the Apple Store does — connecting people to the products they love.</jobComments>
+      <reqDescription>As an Inventory Specialist, you and your team have the incredible responsibility of ensuring products take the final step in the supply chain: getting into customers' hands. You're in charge of the store's entire inventory - products, parts, tools, supplies, and everything else. You make sure your team has the support, knowledge, and resources required to maintain product availability, complete inventory tasks, and keep the stockroom organized as new products arrive. You're in constant contact with the management and leadership teams, sharing data about the status of products and parts. And when exciting new products arrive, you're the first to open them up and present them to the entire store team. Apple makes the products, but you make it happen by being ready to place our products in customers' hands. </reqDescription>
+    </reqTextFields>
+    <jobComments>As an Inventory Specialist, you know better than anyone else the satisfaction of getting the latest Apple product into your hands. So it’s up to you to make sure customers are just as satisfied. By guiding and mentoring your team, you help keep pace with changing demands and make sure every product and demo machine is where it should be. At the end of the day, it’s your organizational skills and dedication that are at the heart of what the Apple Store does — connecting people to the products they love.</jobComments>
+    <languageList type="array">
+      <languageList>
+        <languageCode>en_US</languageCode>
+        <languageName>English</languageName>
+        <spokenLangIndicator nil="true"/>
+        <writtenLangIndicator nil="true"/>
+        <correspondenceLangIndicator nil="true"/>
+        <recruitmentLangSkill nil="true"/>
+        <modfdDate nil="true"/>
+        <modfdUser nil="true"/>
+        <displayLanguageName nil="true"/>
+        <localeName nil="true"/>
+        <id>en_US</id>
+      </languageList>
+    </languageList>
+    <errorMessage>None</errorMessage>
+    <jobDescLangCode>en_US</jobDescLangCode>
+    <localizedJobDescLabels>
+      <localizedPrefQualifications>Preferred Qualifications</localizedPrefQualifications>
+      <localizedShift>Shift:</localizedShift>
+      <localizedJobNumber>Job Number:</localizedJobNumber>
+      <localizedHighJobTitle>High Job Title:</localizedHighJobTitle>
+      <localizedNo>No</localizedNo>
+      <localizedYes>Yes</localizedYes>
+      <localizedEmploymentType>Employment Type:</localizedEmploymentType>
+      <localizedPreferredCandidateIdentified>Preferred Candidate Identified:</localizedPreferredCandidateIdentified>
+      <localizedJobSummary>Job Summary</localizedJobSummary>
+      <localizedWeeklyHours>Weekly Hours:</localizedWeeklyHours>
+      <localizedCompany>Company:</localizedCompany>
+      <localizedAddtlRequirements>Additional Requirements</localizedAddtlRequirements>
+      <localizedGlSite>GL Site/Dept Name:</localizedGlSite>
+      <localizedCorporateJob>Corporate</localizedCorporateJob>
+      <localizedHomeOffice>Home Office:</localizedHomeOffice>
+      <localizedHiringManager>Hiring Manager:</localizedHiringManager>
+      <localizedEverGreen>Dec. 29, 2015</localizedEverGreen>
+      <localizedPosted>Posted:</localizedPosted>
+      <localizedEducation>Education</localizedEducation>
+      <localizedKeyMatchingTerms>Key Matching Terms</localizedKeyMatchingTerms>
+      <localizedRecruiter>Recruiter:</localizedRecruiter>
+      <localizedKeyQualifications>Key Qualifications</localizedKeyQualifications>
+      <localizedDescription>Description</localizedDescription>
+      <localizedLowJobTitle>Low Job Title:</localizedLowJobTitle>
+      <localizedRetailStore>Retail Store </localizedRetailStore>
+    </localizedJobDescLabels>
+  </Job>
+  <Job>
+    <requisitionInfo>
+      <retailPositionTypeCode>USAMN</retailPositionTypeCode>
+      <retailPositionTypeName>US-Manager</retailPositionTypeName>
+      <activeIndicator>1</activeIndicator>
+      <modifiedDate>2015-11-05</modifiedDate>
+      <modifiedUser type="integer">250736249</modifiedUser>
+      <globalPositionTypeCode>ASM</globalPositionTypeCode>
+      <countryCode>United States</countryCode>
+      <postingTitle>US-Manager</postingTitle>
+      <cpSearchInd nil="true"/>
+      <questionnaireTemplateCode>8</questionnaireTemplateCode>
+      <postingCategory1>RET</postingCategory1>
+      <postingCategory2 nil="true"/>
+      <jobSummary>Keeping an Apple Store thriving requires a diverse set of leadership skills, and as a Manager, you’re a master of them all. In the store’s fast-paced, dynamic environment, you exhibit composure as you learn from each new challenge. You build and inspire high-performing teams of unique individuals who deliver positive experiences for customers as they learn, shop, and get support. Most importantly, you share the Apple vision with employees and customers. </jobSummary>
+      <keyQualifications>Proven ability to drive amazing customer experiences — and results — through team development.
+Experience with diplomatically managing multiple commitments to customers, staff, and operations.
+Ability to adapt to challenges while remaining calm in a constantly changing retail environment. </keyQualifications>
+      <posDescription>As a Manager, you're responsible for inspiring your team to create ownership opportunities for customers on the sales floor. Elsewhere, you guide the talent that provides technical support and training, while working in partnership with the business team. And behind the scenes, you oversee operations such as inventory and visual merchandising. You actively build your teams  - hiring, training, and developing team members in all these disciplines and more. Supporting Apple simplicity is a complex job, and you make it look easy.</posDescription>
+      <education nil="true"/>
+      <addRequirements>•You have demonstrated leadership ability with at least five years of experience in a business setting and at least three years of experience in customer-facing sales in a business solutions environment.
+•You have strong people and presentation skills and excellent written and verbal communication skills. 
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs.</addRequirements>
+      <keyMatchingTerms nil="true"/>
+      <visibleCCSearch>1</visibleCCSearch>
+      <jobCodeVarious>Various</jobCodeVarious>
+      <globalPositionType>RTL</globalPositionType>
+      <id>USAMN</id>
+    </requisitionInfo>
+    <reqTextFields>
+      <description>As a Manager, you're responsible for inspiring your team to create ownership opportunities for customers on the sales floor. Elsewhere, you guide the talent that provides technical support and training, while working in partnership with the business team. And behind the scenes, you oversee operations such as inventory and visual merchandising. You actively build your teams  - hiring, training, and developing team members in all these disciplines and more. Supporting Apple simplicity is a complex job, and you make it look easy.</description>
+      <additionalRequirements>•You have demonstrated leadership ability with at least five years of experience in a business setting and at least three years of experience in customer-facing sales in a business solutions environment.
+•You have strong people and presentation skills and excellent written and verbal communication skills. 
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs.</additionalRequirements>
+      <educationDetails></educationDetails>
+      <preferredQualifications nil="true"/>
+      <keyQualifications>Proven ability to drive amazing customer experiences — and results — through team development.
+Experience with diplomatically managing multiple commitments to customers, staff, and operations.
+Ability to adapt to challenges while remaining calm in a constantly changing retail environment. </keyQualifications>
+      <keyMatchingTerms></keyMatchingTerms>
+      <jobComments>Keeping an Apple Store thriving requires a diverse set of leadership skills, and as a Manager, you’re a master of them all. In the store’s fast-paced, dynamic environment, you exhibit composure as you learn from each new challenge. You build and inspire high-performing teams of unique individuals who deliver positive experiences for customers as they learn, shop, and get support. Most importantly, you share the Apple vision with employees and customers. </jobComments>
+      <reqDescription>As a Manager, you're responsible for inspiring your team to create ownership opportunities for customers on the sales floor. Elsewhere, you guide the talent that provides technical support and training, while working in partnership with the business team. And behind the scenes, you oversee operations such as inventory and visual merchandising. You actively build your teams  - hiring, training, and developing team members in all these disciplines and more. Supporting Apple simplicity is a complex job, and you make it look easy.</reqDescription>
+    </reqTextFields>
+    <jobComments>Keeping an Apple Store thriving requires a diverse set of leadership skills, and as a Manager, you’re a master of them all. In the store’s fast-paced, dynamic environment, you exhibit composure as you learn from each new challenge. You build and inspire high-performing teams of unique individuals who deliver positive experiences for customers as they learn, shop, and get support. Most importantly, you share the Apple vision with employees and customers. </jobComments>
+    <languageList type="array">
+      <languageList>
+        <languageCode>en_US</languageCode>
+        <languageName>English</languageName>
+        <spokenLangIndicator nil="true"/>
+        <writtenLangIndicator nil="true"/>
+        <correspondenceLangIndicator nil="true"/>
+        <recruitmentLangSkill nil="true"/>
+        <modfdDate nil="true"/>
+        <modfdUser nil="true"/>
+        <displayLanguageName nil="true"/>
+        <localeName nil="true"/>
+        <id>en_US</id>
+      </languageList>
+    </languageList>
+    <errorMessage>None</errorMessage>
+    <jobDescLangCode>en_US</jobDescLangCode>
+    <localizedJobDescLabels>
+      <localizedPrefQualifications>Preferred Qualifications</localizedPrefQualifications>
+      <localizedShift>Shift:</localizedShift>
+      <localizedJobNumber>Job Number:</localizedJobNumber>
+      <localizedHighJobTitle>High Job Title:</localizedHighJobTitle>
+      <localizedNo>No</localizedNo>
+      <localizedYes>Yes</localizedYes>
+      <localizedEmploymentType>Employment Type:</localizedEmploymentType>
+      <localizedPreferredCandidateIdentified>Preferred Candidate Identified:</localizedPreferredCandidateIdentified>
+      <localizedJobSummary>Job Summary</localizedJobSummary>
+      <localizedWeeklyHours>Weekly Hours:</localizedWeeklyHours>
+      <localizedCompany>Company:</localizedCompany>
+      <localizedAddtlRequirements>Additional Requirements</localizedAddtlRequirements>
+      <localizedGlSite>GL Site/Dept Name:</localizedGlSite>
+      <localizedCorporateJob>Corporate</localizedCorporateJob>
+      <localizedHomeOffice>Home Office:</localizedHomeOffice>
+      <localizedHiringManager>Hiring Manager:</localizedHiringManager>
+      <localizedEverGreen>Dec. 29, 2015</localizedEverGreen>
+      <localizedPosted>Posted:</localizedPosted>
+      <localizedEducation>Education</localizedEducation>
+      <localizedKeyMatchingTerms>Key Matching Terms</localizedKeyMatchingTerms>
+      <localizedRecruiter>Recruiter:</localizedRecruiter>
+      <localizedKeyQualifications>Key Qualifications</localizedKeyQualifications>
+      <localizedDescription>Description</localizedDescription>
+      <localizedLowJobTitle>Low Job Title:</localizedLowJobTitle>
+      <localizedRetailStore>Retail Store </localizedRetailStore>
+    </localizedJobDescLabels>
+  </Job>
+  <Job>
+    <requisitionInfo>
+      <retailPositionTypeCode>USAML</retailPositionTypeCode>
+      <retailPositionTypeName>US-Market Leader</retailPositionTypeName>
+      <activeIndicator>1</activeIndicator>
+      <modifiedDate>2015-11-05</modifiedDate>
+      <modifiedUser type="integer">250736249</modifiedUser>
+      <globalPositionTypeCode>MKTL</globalPositionTypeCode>
+      <countryCode>United States</countryCode>
+      <postingTitle>US-Market Leader</postingTitle>
+      <cpSearchInd nil="true"/>
+      <questionnaireTemplateCode>14</questionnaireTemplateCode>
+      <postingCategory1>RET</postingCategory1>
+      <postingCategory2 nil="true"/>
+      <jobSummary>As a Market Leader, you enjoy the challenges of developing individuals, building teams, and affecting growth across Apple Stores. You demonstrate successful leadership ability — focusing on excellence and consistent execution of Apple strategies. Even when you’re not present, you maintain a constant influence in every location — articulating the Apple vision to inspire and make an impact daily on your management teams and employees.</jobSummary>
+      <keyQualifications>Experience building respected leadership teams and developing talent to support business growth. 
+Passion for Apple’s commitment to unparalleled customer service.
+Proven ability to keep multiple locations aligned while executing organizational initiatives.</keyQualifications>
+      <posDescription>As a Market Leader, you inspire teams to deliver experiences that build customer loyalty and guide the development of your management talent. Because each location operates sales, training, technical support, and business-focused segments, your job is complex and challenging. You lead your staff to maintain peak performance, even working side by side with them. As each store experiences vigorous growth and constant change, you continually refocus your teams on providing a quality experience for each customer at the Apple Store. You analyze key metrics, including customer and employee feedback, and provide guidance for each store to achieve market goals. Bridging the worlds of retail and corporate, you combine executive vision with field execution to contribute to the future success of Apple.</posDescription>
+      <education>•BA or BS, or equivalent experience</education>
+      <addRequirements>•You’re comfortable selling as well as teaching, helping your team members out as needed. 
+•You’re self-motivated and self-directed, and can adhere to a tightly structured training schedule.
+•You can be adept at recommending other in-store support options, such as business services and the Genius Bar.
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs.</addRequirements>
+      <keyMatchingTerms nil="true"/>
+      <visibleCCSearch>1</visibleCCSearch>
+      <jobCodeVarious>Various</jobCodeVarious>
+      <globalPositionType>RTL</globalPositionType>
+      <id>USAML</id>
+    </requisitionInfo>
+    <reqTextFields>
+      <description>As a Market Leader, you inspire teams to deliver experiences that build customer loyalty and guide the development of your management talent. Because each location operates sales, training, technical support, and business-focused segments, your job is complex and challenging. You lead your staff to maintain peak performance, even working side by side with them. As each store experiences vigorous growth and constant change, you continually refocus your teams on providing a quality experience for each customer at the Apple Store. You analyze key metrics, including customer and employee feedback, and provide guidance for each store to achieve market goals. Bridging the worlds of retail and corporate, you combine executive vision with field execution to contribute to the future success of Apple.</description>
+      <additionalRequirements>•You’re comfortable selling as well as teaching, helping your team members out as needed. 
+•You’re self-motivated and self-directed, and can adhere to a tightly structured training schedule.
+•You can be adept at recommending other in-store support options, such as business services and the Genius Bar.
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs.</additionalRequirements>
+      <educationDetails>•BA or BS, or equivalent experience</educationDetails>
+      <preferredQualifications nil="true"/>
+      <keyQualifications>Experience building respected leadership teams and developing talent to support business growth. 
+Passion for Apple’s commitment to unparalleled customer service.
+Proven ability to keep multiple locations aligned while executing organizational initiatives.</keyQualifications>
+      <keyMatchingTerms></keyMatchingTerms>
+      <jobComments>As a Market Leader, you enjoy the challenges of developing individuals, building teams, and affecting growth across Apple Stores. You demonstrate successful leadership ability — focusing on excellence and consistent execution of Apple strategies. Even when you’re not present, you maintain a constant influence in every location — articulating the Apple vision to inspire and make an impact daily on your management teams and employees.</jobComments>
+      <reqDescription>As a Market Leader, you inspire teams to deliver experiences that build customer loyalty and guide the development of your management talent. Because each location operates sales, training, technical support, and business-focused segments, your job is complex and challenging. You lead your staff to maintain peak performance, even working side by side with them. As each store experiences vigorous growth and constant change, you continually refocus your teams on providing a quality experience for each customer at the Apple Store. You analyze key metrics, including customer and employee feedback, and provide guidance for each store to achieve market goals. Bridging the worlds of retail and corporate, you combine executive vision with field execution to contribute to the future success of Apple.</reqDescription>
+    </reqTextFields>
+    <jobComments>As a Market Leader, you enjoy the challenges of developing individuals, building teams, and affecting growth across Apple Stores. You demonstrate successful leadership ability — focusing on excellence and consistent execution of Apple strategies. Even when you’re not present, you maintain a constant influence in every location — articulating the Apple vision to inspire and make an impact daily on your management teams and employees.</jobComments>
+    <languageList type="array">
+      <languageList>
+        <languageCode>en_US</languageCode>
+        <languageName>English</languageName>
+        <spokenLangIndicator nil="true"/>
+        <writtenLangIndicator nil="true"/>
+        <correspondenceLangIndicator nil="true"/>
+        <recruitmentLangSkill nil="true"/>
+        <modfdDate nil="true"/>
+        <modfdUser nil="true"/>
+        <displayLanguageName nil="true"/>
+        <localeName nil="true"/>
+        <id>en_US</id>
+      </languageList>
+    </languageList>
+    <errorMessage>None</errorMessage>
+    <jobDescLangCode>en_US</jobDescLangCode>
+    <localizedJobDescLabels>
+      <localizedPrefQualifications>Preferred Qualifications</localizedPrefQualifications>
+      <localizedShift>Shift:</localizedShift>
+      <localizedJobNumber>Job Number:</localizedJobNumber>
+      <localizedHighJobTitle>High Job Title:</localizedHighJobTitle>
+      <localizedNo>No</localizedNo>
+      <localizedYes>Yes</localizedYes>
+      <localizedEmploymentType>Employment Type:</localizedEmploymentType>
+      <localizedPreferredCandidateIdentified>Preferred Candidate Identified:</localizedPreferredCandidateIdentified>
+      <localizedJobSummary>Job Summary</localizedJobSummary>
+      <localizedWeeklyHours>Weekly Hours:</localizedWeeklyHours>
+      <localizedCompany>Company:</localizedCompany>
+      <localizedAddtlRequirements>Additional Requirements</localizedAddtlRequirements>
+      <localizedGlSite>GL Site/Dept Name:</localizedGlSite>
+      <localizedCorporateJob>Corporate</localizedCorporateJob>
+      <localizedHomeOffice>Home Office:</localizedHomeOffice>
+      <localizedHiringManager>Hiring Manager:</localizedHiringManager>
+      <localizedEverGreen>Dec. 29, 2015</localizedEverGreen>
+      <localizedPosted>Posted:</localizedPosted>
+      <localizedEducation>Education</localizedEducation>
+      <localizedKeyMatchingTerms>Key Matching Terms</localizedKeyMatchingTerms>
+      <localizedRecruiter>Recruiter:</localizedRecruiter>
+      <localizedKeyQualifications>Key Qualifications</localizedKeyQualifications>
+      <localizedDescription>Description</localizedDescription>
+      <localizedLowJobTitle>Low Job Title:</localizedLowJobTitle>
+      <localizedRetailStore>Retail Store </localizedRetailStore>
+    </localizedJobDescLabels>
+  </Job>
+  <Job>
+    <requisitionInfo>
+      <retailPositionTypeCode>USASL</retailPositionTypeCode>
+      <retailPositionTypeName>US-Store Leader</retailPositionTypeName>
+      <activeIndicator>1</activeIndicator>
+      <modifiedDate>2015-11-05</modifiedDate>
+      <modifiedUser type="integer">250736249</modifiedUser>
+      <globalPositionTypeCode>SM</globalPositionTypeCode>
+      <countryCode>United States</countryCode>
+      <postingTitle>US-Store Leader</postingTitle>
+      <cpSearchInd nil="true"/>
+      <questionnaireTemplateCode>8</questionnaireTemplateCode>
+      <postingCategory1>RET</postingCategory1>
+      <postingCategory2 nil="true"/>
+      <jobSummary>As more and more people discover Apple, they visit our stores seeking ways to incorporate our products into their lives. It’s your job, as a Store Leader, to build and manage the various teams that engage customers in this dynamic environment. In this role, you lead the people that help customers achieve ownership, learn new skills, get technical support, and find business solutions. Adaptable and flexible by nature, you’re composed and collected as you balance the diverse needs of your teams in the midst of constant change. </jobSummary>
+      <keyQualifications>Proven ability to drive positive customer experiences that build loyalty and deliver measurable results. 
+Ability to manage separate business groups within a complex environment.
+Strong communication skills to clearly impart the Apple vision to the teams you oversee.</keyQualifications>
+      <posDescription>As a Store Leader, you inspire teams to deliver measurable results for the store's various business sectors. You lead a sales force that discovers customers' needs and delivers solutions to build Apple loyalty. Your technical support team helps maintain customers' trust in Apple and its products. Your business team brings the Apple experience to business customers. And the training staff you coach teaches customers how to get the most out of their Apple products. You build these lines of business by selecting and developing a knowledgeable talent pool. In addition to team building, you create excitement around products, launches, programs, and initiatives. You're responsible for upholding our high standards regarding communication and confidentiality. And by driving your staff to create customer experiences that enhance Apple loyalty, you deliver measurable results and help enrich customers' lives. </posDescription>
+      <education nil="true"/>
+      <addRequirements>• You have demonstrated leadership ability with at least five years of experience in a customer-facing sales setting.
+• Cross-industry experience is welcome — a retail background is not necessary.
+• You have a passion for learning about Apple technology and products. 
+• Multilingual ability is a plus. 
+• You'll need to be flexible with your schedule. Your work hours will be based on business needs.</addRequirements>
+      <keyMatchingTerms nil="true"/>
+      <visibleCCSearch>1</visibleCCSearch>
+      <jobCodeVarious>Various</jobCodeVarious>
+      <globalPositionType>RTL</globalPositionType>
+      <id>USASL</id>
+    </requisitionInfo>
+    <reqTextFields>
+      <description>As a Store Leader, you inspire teams to deliver measurable results for the store's various business sectors. You lead a sales force that discovers customers' needs and delivers solutions to build Apple loyalty. Your technical support team helps maintain customers' trust in Apple and its products. Your business team brings the Apple experience to business customers. And the training staff you coach teaches customers how to get the most out of their Apple products. You build these lines of business by selecting and developing a knowledgeable talent pool. In addition to team building, you create excitement around products, launches, programs, and initiatives. You're responsible for upholding our high standards regarding communication and confidentiality. And by driving your staff to create customer experiences that enhance Apple loyalty, you deliver measurable results and help enrich customers' lives. </description>
+      <additionalRequirements>• You have demonstrated leadership ability with at least five years of experience in a customer-facing sales setting.
+• Cross-industry experience is welcome — a retail background is not necessary.
+• You have a passion for learning about Apple technology and products. 
+• Multilingual ability is a plus. 
+• You'll need to be flexible with your schedule. Your work hours will be based on business needs.</additionalRequirements>
+      <educationDetails></educationDetails>
+      <preferredQualifications nil="true"/>
+      <keyQualifications>Proven ability to drive positive customer experiences that build loyalty and deliver measurable results. 
+Ability to manage separate business groups within a complex environment.
+Strong communication skills to clearly impart the Apple vision to the teams you oversee.</keyQualifications>
+      <keyMatchingTerms></keyMatchingTerms>
+      <jobComments>As more and more people discover Apple, they visit our stores seeking ways to incorporate our products into their lives. It’s your job, as a Store Leader, to build and manage the various teams that engage customers in this dynamic environment. In this role, you lead the people that help customers achieve ownership, learn new skills, get technical support, and find business solutions. Adaptable and flexible by nature, you’re composed and collected as you balance the diverse needs of your teams in the midst of constant change. </jobComments>
+      <reqDescription>As a Store Leader, you inspire teams to deliver measurable results for the store's various business sectors. You lead a sales force that discovers customers' needs and delivers solutions to build Apple loyalty. Your technical support team helps maintain customers' trust in Apple and its products. Your business team brings the Apple experience to business customers. And the training staff you coach teaches customers how to get the most out of their Apple products. You build these lines of business by selecting and developing a knowledgeable talent pool. In addition to team building, you create excitement around products, launches, programs, and initiatives. You're responsible for upholding our high standards regarding communication and confidentiality. And by driving your staff to create customer experiences that enhance Apple loyalty, you deliver measurable results and help enrich customers' lives. </reqDescription>
+    </reqTextFields>
+    <jobComments>As more and more people discover Apple, they visit our stores seeking ways to incorporate our products into their lives. It’s your job, as a Store Leader, to build and manage the various teams that engage customers in this dynamic environment. In this role, you lead the people that help customers achieve ownership, learn new skills, get technical support, and find business solutions. Adaptable and flexible by nature, you’re composed and collected as you balance the diverse needs of your teams in the midst of constant change. </jobComments>
+    <languageList type="array">
+      <languageList>
+        <languageCode>en_US</languageCode>
+        <languageName>English</languageName>
+        <spokenLangIndicator nil="true"/>
+        <writtenLangIndicator nil="true"/>
+        <correspondenceLangIndicator nil="true"/>
+        <recruitmentLangSkill nil="true"/>
+        <modfdDate nil="true"/>
+        <modfdUser nil="true"/>
+        <displayLanguageName nil="true"/>
+        <localeName nil="true"/>
+        <id>en_US</id>
+      </languageList>
+    </languageList>
+    <errorMessage>None</errorMessage>
+    <jobDescLangCode>en_US</jobDescLangCode>
+    <localizedJobDescLabels>
+      <localizedPrefQualifications>Preferred Qualifications</localizedPrefQualifications>
+      <localizedShift>Shift:</localizedShift>
+      <localizedJobNumber>Job Number:</localizedJobNumber>
+      <localizedHighJobTitle>High Job Title:</localizedHighJobTitle>
+      <localizedNo>No</localizedNo>
+      <localizedYes>Yes</localizedYes>
+      <localizedEmploymentType>Employment Type:</localizedEmploymentType>
+      <localizedPreferredCandidateIdentified>Preferred Candidate Identified:</localizedPreferredCandidateIdentified>
+      <localizedJobSummary>Job Summary</localizedJobSummary>
+      <localizedWeeklyHours>Weekly Hours:</localizedWeeklyHours>
+      <localizedCompany>Company:</localizedCompany>
+      <localizedAddtlRequirements>Additional Requirements</localizedAddtlRequirements>
+      <localizedGlSite>GL Site/Dept Name:</localizedGlSite>
+      <localizedCorporateJob>Corporate</localizedCorporateJob>
+      <localizedHomeOffice>Home Office:</localizedHomeOffice>
+      <localizedHiringManager>Hiring Manager:</localizedHiringManager>
+      <localizedEverGreen>Dec. 29, 2015</localizedEverGreen>
+      <localizedPosted>Posted:</localizedPosted>
+      <localizedEducation>Education</localizedEducation>
+      <localizedKeyMatchingTerms>Key Matching Terms</localizedKeyMatchingTerms>
+      <localizedRecruiter>Recruiter:</localizedRecruiter>
+      <localizedKeyQualifications>Key Qualifications</localizedKeyQualifications>
+      <localizedDescription>Description</localizedDescription>
+      <localizedLowJobTitle>Low Job Title:</localizedLowJobTitle>
+      <localizedRetailStore>Retail Store </localizedRetailStore>
+    </localizedJobDescLabels>
+  </Job>
+  <Job>
+    <requisitionInfo>
+      <retailPositionTypeCode>USASE</retailPositionTypeCode>
+      <retailPositionTypeName>US-Solution Engineer</retailPositionTypeName>
+      <activeIndicator>1</activeIndicator>
+      <modifiedDate>2015-11-05</modifiedDate>
+      <modifiedUser type="integer">250736249</modifiedUser>
+      <globalPositionTypeCode>SOL</globalPositionTypeCode>
+      <countryCode>United States</countryCode>
+      <postingTitle>US-Solution Engineer</postingTitle>
+      <cpSearchInd nil="true"/>
+      <questionnaireTemplateCode>9</questionnaireTemplateCode>
+      <postingCategory1>RET</postingCategory1>
+      <postingCategory2 nil="true"/>
+      <jobSummary>As businesses discover the power of Apple computers and mobile devices, it’s your job — as a Solutions Engineer — to show them how to introduce these products into their workplaces. You collaborate with customers to create unique and elegantly simple technical solutions. You’re also part of a dynamic team at the Apple Store that’s passionate about delivering smart solutions to business users. You challenge yourself to keep building your technical knowledge and professional skills. And you truly understand how Apple technology can work in any environment.  </jobSummary>
+      <keyQualifications>Extensive experience in mixed-technology environments, including enterprise-level infrastructure.
+Experience interacting with customers at all levels of responsibility and technical expertise. 
+Ability to coach the sales teams in technical issues to enhance their customer interactions.</keyQualifications>
+      <posDescription>As a Solutions Engineer, you're part of a team that helps customers introduce Apple technology within their businesses. Your team meets with business customers to understand their needs, looking for ways Apple can help them compete efficiently and effectively. You educate not only customers, but also your team members about the capabilities of Apple products in the workplace. Next, you create solutions that are appropriate for your customer's environment by leveraging an extensive knowledge base, tapping your own experience, and collaborating with third-party providers. Finally, you work with customers to pinpoint the ideal solutions for their needs. By enabling business customers to use technology more effectively, you not only help them succeed, but also help Apple succeed with businesses.  </posDescription>
+      <education nil="true"/>
+      <addRequirements>•You’re comfortable selling as well as teaching, helping your team members out as needed. 
+•You’re self-motivated and self-directed, and can adhere to a tightly structured training schedule.
+•You can be adept at recommending other in-store support options, such as business services and the Genius Bar.
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs.</addRequirements>
+      <keyMatchingTerms nil="true"/>
+      <visibleCCSearch>1</visibleCCSearch>
+      <jobCodeVarious>Various</jobCodeVarious>
+      <globalPositionType>RTL</globalPositionType>
+      <id>USASE</id>
+    </requisitionInfo>
+    <reqTextFields>
+      <description>As a Solutions Engineer, you're part of a team that helps customers introduce Apple technology within their businesses. Your team meets with business customers to understand their needs, looking for ways Apple can help them compete efficiently and effectively. You educate not only customers, but also your team members about the capabilities of Apple products in the workplace. Next, you create solutions that are appropriate for your customer's environment by leveraging an extensive knowledge base, tapping your own experience, and collaborating with third-party providers. Finally, you work with customers to pinpoint the ideal solutions for their needs. By enabling business customers to use technology more effectively, you not only help them succeed, but also help Apple succeed with businesses.  </description>
+      <additionalRequirements>•You’re comfortable selling as well as teaching, helping your team members out as needed. 
+•You’re self-motivated and self-directed, and can adhere to a tightly structured training schedule.
+•You can be adept at recommending other in-store support options, such as business services and the Genius Bar.
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs.</additionalRequirements>
+      <educationDetails></educationDetails>
+      <preferredQualifications nil="true"/>
+      <keyQualifications>Extensive experience in mixed-technology environments, including enterprise-level infrastructure.
+Experience interacting with customers at all levels of responsibility and technical expertise. 
+Ability to coach the sales teams in technical issues to enhance their customer interactions.</keyQualifications>
+      <keyMatchingTerms></keyMatchingTerms>
+      <jobComments>As businesses discover the power of Apple computers and mobile devices, it’s your job — as a Solutions Engineer — to show them how to introduce these products into their workplaces. You collaborate with customers to create unique and elegantly simple technical solutions. You’re also part of a dynamic team at the Apple Store that’s passionate about delivering smart solutions to business users. You challenge yourself to keep building your technical knowledge and professional skills. And you truly understand how Apple technology can work in any environment.  </jobComments>
+      <reqDescription>As a Solutions Engineer, you're part of a team that helps customers introduce Apple technology within their businesses. Your team meets with business customers to understand their needs, looking for ways Apple can help them compete efficiently and effectively. You educate not only customers, but also your team members about the capabilities of Apple products in the workplace. Next, you create solutions that are appropriate for your customer's environment by leveraging an extensive knowledge base, tapping your own experience, and collaborating with third-party providers. Finally, you work with customers to pinpoint the ideal solutions for their needs. By enabling business customers to use technology more effectively, you not only help them succeed, but also help Apple succeed with businesses.  </reqDescription>
+    </reqTextFields>
+    <jobComments>As businesses discover the power of Apple computers and mobile devices, it’s your job — as a Solutions Engineer — to show them how to introduce these products into their workplaces. You collaborate with customers to create unique and elegantly simple technical solutions. You’re also part of a dynamic team at the Apple Store that’s passionate about delivering smart solutions to business users. You challenge yourself to keep building your technical knowledge and professional skills. And you truly understand how Apple technology can work in any environment.  </jobComments>
+    <languageList type="array">
+      <languageList>
+        <languageCode>en_US</languageCode>
+        <languageName>English</languageName>
+        <spokenLangIndicator nil="true"/>
+        <writtenLangIndicator nil="true"/>
+        <correspondenceLangIndicator nil="true"/>
+        <recruitmentLangSkill nil="true"/>
+        <modfdDate nil="true"/>
+        <modfdUser nil="true"/>
+        <displayLanguageName nil="true"/>
+        <localeName nil="true"/>
+        <id>en_US</id>
+      </languageList>
+    </languageList>
+    <errorMessage>None</errorMessage>
+    <jobDescLangCode>en_US</jobDescLangCode>
+    <localizedJobDescLabels>
+      <localizedPrefQualifications>Preferred Qualifications</localizedPrefQualifications>
+      <localizedShift>Shift:</localizedShift>
+      <localizedJobNumber>Job Number:</localizedJobNumber>
+      <localizedHighJobTitle>High Job Title:</localizedHighJobTitle>
+      <localizedNo>No</localizedNo>
+      <localizedYes>Yes</localizedYes>
+      <localizedEmploymentType>Employment Type:</localizedEmploymentType>
+      <localizedPreferredCandidateIdentified>Preferred Candidate Identified:</localizedPreferredCandidateIdentified>
+      <localizedJobSummary>Job Summary</localizedJobSummary>
+      <localizedWeeklyHours>Weekly Hours:</localizedWeeklyHours>
+      <localizedCompany>Company:</localizedCompany>
+      <localizedAddtlRequirements>Additional Requirements</localizedAddtlRequirements>
+      <localizedGlSite>GL Site/Dept Name:</localizedGlSite>
+      <localizedCorporateJob>Corporate</localizedCorporateJob>
+      <localizedHomeOffice>Home Office:</localizedHomeOffice>
+      <localizedHiringManager>Hiring Manager:</localizedHiringManager>
+      <localizedEverGreen>Dec. 29, 2015</localizedEverGreen>
+      <localizedPosted>Posted:</localizedPosted>
+      <localizedEducation>Education</localizedEducation>
+      <localizedKeyMatchingTerms>Key Matching Terms</localizedKeyMatchingTerms>
+      <localizedRecruiter>Recruiter:</localizedRecruiter>
+      <localizedKeyQualifications>Key Qualifications</localizedKeyQualifications>
+      <localizedDescription>Description</localizedDescription>
+      <localizedLowJobTitle>Low Job Title:</localizedLowJobTitle>
+      <localizedRetailStore>Retail Store </localizedRetailStore>
+    </localizedJobDescLabels>
+  </Job>
+  <Job>
+    <requisitionInfo>
+      <retailPositionTypeCode>USASP</retailPositionTypeCode>
+      <retailPositionTypeName>US-Specialist</retailPositionTypeName>
+      <activeIndicator>1</activeIndicator>
+      <modifiedDate>2015-11-05</modifiedDate>
+      <modifiedUser type="integer">250736249</modifiedUser>
+      <globalPositionTypeCode>SPEC</globalPositionTypeCode>
+      <countryCode>United States</countryCode>
+      <postingTitle>US-Specialist</postingTitle>
+      <cpSearchInd nil="true"/>
+      <questionnaireTemplateCode>4</questionnaireTemplateCode>
+      <postingCategory1>RET</postingCategory1>
+      <postingCategory2 nil="true"/>
+      <jobSummary>As a Specialist, you help create the energy and excitement around Apple products, providing the right solutions and getting products into customers’ hands. You understand that the Apple Store is dedicated to delivering a customer experience that’s unlike any other. It starts with you discovering customers’ needs. And with the support of your store team members, you match those needs with the right products. Every day is an opportunity for you to turn another Apple Store visitor into a loyal Apple customer.</jobSummary>
+      <keyQualifications>Strong interest in technology, particularly Apple products, and agility at learning new products and features. 
+Ability to deliver great customer experiences in any environment and to be invigorated by constant personal interaction. 
+Strong communication skills that let you converse as freely and comfortably with small groups as with individual customers. </keyQualifications>
+      <posDescription>As a Specialist, you’re highly skilled at uncovering customers’ needs, then following through with enlightening solutions. Not only are you the first person customers meet when they enter the store, but you’re also the person who guides them — advising, selling, and even setting up their new products. You perform other roles within the store too, whether it’s maintaining visual merchandising or assisting team members. Always curious, you stay on top of news about products and initiatives, ready to apply your learning in customer interactions. Your success is measured by team and individual productivity as well as overall store performance. You’re proud to represent Apple, and you get great satisfaction from helping customers develop lifelong relationships with Apple. </posDescription>
+      <education nil="true"/>
+      <addRequirements>•You're passionate about Apple and eager to share that passion with others.
+•You're willing to learn and embrace the guidelines behind Apple's unique style of service. 
+•You have strong people skills-you're approachable, a good listener, and empathetic.
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs.</addRequirements>
+      <keyMatchingTerms nil="true"/>
+      <visibleCCSearch>1</visibleCCSearch>
+      <jobCodeVarious>Various</jobCodeVarious>
+      <globalPositionType>RTL</globalPositionType>
+      <id>USASP</id>
+    </requisitionInfo>
+    <reqTextFields>
+      <description>As a Specialist, you’re highly skilled at uncovering customers’ needs, then following through with enlightening solutions. Not only are you the first person customers meet when they enter the store, but you’re also the person who guides them — advising, selling, and even setting up their new products. You perform other roles within the store too, whether it’s maintaining visual merchandising or assisting team members. Always curious, you stay on top of news about products and initiatives, ready to apply your learning in customer interactions. Your success is measured by team and individual productivity as well as overall store performance. You’re proud to represent Apple, and you get great satisfaction from helping customers develop lifelong relationships with Apple. </description>
+      <additionalRequirements>•You're passionate about Apple and eager to share that passion with others.
+•You're willing to learn and embrace the guidelines behind Apple's unique style of service. 
+•You have strong people skills-you're approachable, a good listener, and empathetic.
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs.</additionalRequirements>
+      <educationDetails></educationDetails>
+      <preferredQualifications nil="true"/>
+      <keyQualifications>Strong interest in technology, particularly Apple products, and agility at learning new products and features. 
+Ability to deliver great customer experiences in any environment and to be invigorated by constant personal interaction. 
+Strong communication skills that let you converse as freely and comfortably with small groups as with individual customers. </keyQualifications>
+      <keyMatchingTerms></keyMatchingTerms>
+      <jobComments>As a Specialist, you help create the energy and excitement around Apple products, providing the right solutions and getting products into customers’ hands. You understand that the Apple Store is dedicated to delivering a customer experience that’s unlike any other. It starts with you discovering customers’ needs. And with the support of your store team members, you match those needs with the right products. Every day is an opportunity for you to turn another Apple Store visitor into a loyal Apple customer.</jobComments>
+      <reqDescription>As a Specialist, you’re highly skilled at uncovering customers’ needs, then following through with enlightening solutions. Not only are you the first person customers meet when they enter the store, but you’re also the person who guides them — advising, selling, and even setting up their new products. You perform other roles within the store too, whether it’s maintaining visual merchandising or assisting team members. Always curious, you stay on top of news about products and initiatives, ready to apply your learning in customer interactions. Your success is measured by team and individual productivity as well as overall store performance. You’re proud to represent Apple, and you get great satisfaction from helping customers develop lifelong relationships with Apple. </reqDescription>
+    </reqTextFields>
+    <jobComments>As a Specialist, you help create the energy and excitement around Apple products, providing the right solutions and getting products into customers’ hands. You understand that the Apple Store is dedicated to delivering a customer experience that’s unlike any other. It starts with you discovering customers’ needs. And with the support of your store team members, you match those needs with the right products. Every day is an opportunity for you to turn another Apple Store visitor into a loyal Apple customer.</jobComments>
+    <languageList type="array">
+      <languageList>
+        <languageCode>en_US</languageCode>
+        <languageName>English</languageName>
+        <spokenLangIndicator nil="true"/>
+        <writtenLangIndicator nil="true"/>
+        <correspondenceLangIndicator nil="true"/>
+        <recruitmentLangSkill nil="true"/>
+        <modfdDate nil="true"/>
+        <modfdUser nil="true"/>
+        <displayLanguageName nil="true"/>
+        <localeName nil="true"/>
+        <id>en_US</id>
+      </languageList>
+    </languageList>
+    <errorMessage>None</errorMessage>
+    <jobDescLangCode>en_US</jobDescLangCode>
+    <localizedJobDescLabels>
+      <localizedPrefQualifications>Preferred Qualifications</localizedPrefQualifications>
+      <localizedShift>Shift:</localizedShift>
+      <localizedJobNumber>Job Number:</localizedJobNumber>
+      <localizedHighJobTitle>High Job Title:</localizedHighJobTitle>
+      <localizedNo>No</localizedNo>
+      <localizedYes>Yes</localizedYes>
+      <localizedEmploymentType>Employment Type:</localizedEmploymentType>
+      <localizedPreferredCandidateIdentified>Preferred Candidate Identified:</localizedPreferredCandidateIdentified>
+      <localizedJobSummary>Job Summary</localizedJobSummary>
+      <localizedWeeklyHours>Weekly Hours:</localizedWeeklyHours>
+      <localizedCompany>Company:</localizedCompany>
+      <localizedAddtlRequirements>Additional Requirements</localizedAddtlRequirements>
+      <localizedGlSite>GL Site/Dept Name:</localizedGlSite>
+      <localizedCorporateJob>Corporate</localizedCorporateJob>
+      <localizedHomeOffice>Home Office:</localizedHomeOffice>
+      <localizedHiringManager>Hiring Manager:</localizedHiringManager>
+      <localizedEverGreen>Dec. 29, 2015</localizedEverGreen>
+      <localizedPosted>Posted:</localizedPosted>
+      <localizedEducation>Education</localizedEducation>
+      <localizedKeyMatchingTerms>Key Matching Terms</localizedKeyMatchingTerms>
+      <localizedRecruiter>Recruiter:</localizedRecruiter>
+      <localizedKeyQualifications>Key Qualifications</localizedKeyQualifications>
+      <localizedDescription>Description</localizedDescription>
+      <localizedLowJobTitle>Low Job Title:</localizedLowJobTitle>
+      <localizedRetailStore>Retail Store </localizedRetailStore>
+    </localizedJobDescLabels>
+  </Job>
+  <Job>
+    <requisitionInfo>
+      <retailPositionTypeCode>USSS</retailPositionTypeCode>
+      <retailPositionTypeName>US-Service Specialist</retailPositionTypeName>
+      <activeIndicator>1</activeIndicator>
+      <modifiedDate>2015-11-05</modifiedDate>
+      <modifiedUser type="integer">250736249</modifiedUser>
+      <globalPositionTypeCode>SS</globalPositionTypeCode>
+      <countryCode>United States</countryCode>
+      <postingTitle>US-Service Specialist</postingTitle>
+      <cpSearchInd nil="true"/>
+      <questionnaireTemplateCode>65</questionnaireTemplateCode>
+      <postingCategory1>RET</postingCategory1>
+      <postingCategory2 nil="true"/>
+      <jobSummary>After customers purchase our products, you’re the one who helps them get more out of their new Apple technology. Your day in the Apple Store is filled with a range of focused support and service tasks. Whether you’re helping customers get started with the Mac or finding answers to their questions about other Apple devices, you’re ready to share knowledge and provide exceptional assistance. You gain satisfaction from bringing resolution and insight to each customer, elevating his or her relationship with Apple to the next level.</jobSummary>
+      <keyQualifications>Ability to assess customers’ support needs when they arrive, then provide solutions or refer them to other team members
+Flexibility to regularly rotate through different technical specialties and skill sets
+Ability to thrive on change as products evolve</keyQualifications>
+      <posDescription>As a Service Specialist, you help new owners get started and current ones get quick, efficient support — developing strong, positive relationships with Apple. When a customer needs assistance, you quickly assess their situation. Sometimes you take care of customers with advice or a solution on the spot, using your knowledge of current Apple technology to help with iPod, iPhone, and iPad devices. At other times, you refer customers to support team members who get them up and running again. You even provide personal training for new customers, helping them acquire the basic skills they need to get started on photo, video, and music projects. The entire store team benefits from your commitment to providing the best care for customers. By helping Apple maintain strong relationships with customers, you are instrumental to our success.</posDescription>
+      <education nil="true"/>
+      <addRequirements>•You have excellent time management skills and can make decisions quickly.
+•You maintain composure and customer focus while troubleshooting and solving issues.
+•You reassure customers when delivering product diagnoses and potential solutions.
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs.
+</addRequirements>
+      <keyMatchingTerms nil="true"/>
+      <visibleCCSearch>1</visibleCCSearch>
+      <jobCodeVarious>Various</jobCodeVarious>
+      <globalPositionType>RTL</globalPositionType>
+      <id>USSS</id>
+    </requisitionInfo>
+    <reqTextFields>
+      <description>As a Service Specialist, you help new owners get started and current ones get quick, efficient support — developing strong, positive relationships with Apple. When a customer needs assistance, you quickly assess their situation. Sometimes you take care of customers with advice or a solution on the spot, using your knowledge of current Apple technology to help with iPod, iPhone, and iPad devices. At other times, you refer customers to support team members who get them up and running again. You even provide personal training for new customers, helping them acquire the basic skills they need to get started on photo, video, and music projects. The entire store team benefits from your commitment to providing the best care for customers. By helping Apple maintain strong relationships with customers, you are instrumental to our success.</description>
+      <additionalRequirements>•You have excellent time management skills and can make decisions quickly.
+•You maintain composure and customer focus while troubleshooting and solving issues.
+•You reassure customers when delivering product diagnoses and potential solutions.
+•You’ll need to be flexible with your schedule. Your work hours will be based on business needs.
+</additionalRequirements>
+      <educationDetails></educationDetails>
+      <preferredQualifications nil="true"/>
+      <keyQualifications>Ability to assess customers’ support needs when they arrive, then provide solutions or refer them to other team members
+Flexibility to regularly rotate through different technical specialties and skill sets
+Ability to thrive on change as products evolve</keyQualifications>
+      <keyMatchingTerms></keyMatchingTerms>
+      <jobComments>After customers purchase our products, you’re the one who helps them get more out of their new Apple technology. Your day in the Apple Store is filled with a range of focused support and service tasks. Whether you’re helping customers get started with the Mac or finding answers to their questions about other Apple devices, you’re ready to share knowledge and provide exceptional assistance. You gain satisfaction from bringing resolution and insight to each customer, elevating his or her relationship with Apple to the next level.</jobComments>
+      <reqDescription>As a Service Specialist, you help new owners get started and current ones get quick, efficient support — developing strong, positive relationships with Apple. When a customer needs assistance, you quickly assess their situation. Sometimes you take care of customers with advice or a solution on the spot, using your knowledge of current Apple technology to help with iPod, iPhone, and iPad devices. At other times, you refer customers to support team members who get them up and running again. You even provide personal training for new customers, helping them acquire the basic skills they need to get started on photo, video, and music projects. The entire store team benefits from your commitment to providing the best care for customers. By helping Apple maintain strong relationships with customers, you are instrumental to our success.</reqDescription>
+    </reqTextFields>
+    <jobComments>After customers purchase our products, you’re the one who helps them get more out of their new Apple technology. Your day in the Apple Store is filled with a range of focused support and service tasks. Whether you’re helping customers get started with the Mac or finding answers to their questions about other Apple devices, you’re ready to share knowledge and provide exceptional assistance. You gain satisfaction from bringing resolution and insight to each customer, elevating his or her relationship with Apple to the next level.</jobComments>
+    <languageList type="array">
+      <languageList>
+        <languageCode>en_US</languageCode>
+        <languageName>English</languageName>
+        <spokenLangIndicator nil="true"/>
+        <writtenLangIndicator nil="true"/>
+        <correspondenceLangIndicator nil="true"/>
+        <recruitmentLangSkill nil="true"/>
+        <modfdDate nil="true"/>
+        <modfdUser nil="true"/>
+        <displayLanguageName nil="true"/>
+        <localeName nil="true"/>
+        <id>en_US</id>
+      </languageList>
+    </languageList>
+    <errorMessage>None</errorMessage>
+    <jobDescLangCode>en_US</jobDescLangCode>
+    <localizedJobDescLabels>
+      <localizedPrefQualifications>Preferred Qualifications</localizedPrefQualifications>
+      <localizedShift>Shift:</localizedShift>
+      <localizedJobNumber>Job Number:</localizedJobNumber>
+      <localizedHighJobTitle>High Job Title:</localizedHighJobTitle>
+      <localizedNo>No</localizedNo>
+      <localizedYes>Yes</localizedYes>
+      <localizedEmploymentType>Employment Type:</localizedEmploymentType>
+      <localizedPreferredCandidateIdentified>Preferred Candidate Identified:</localizedPreferredCandidateIdentified>
+      <localizedJobSummary>Job Summary</localizedJobSummary>
+      <localizedWeeklyHours>Weekly Hours:</localizedWeeklyHours>
+      <localizedCompany>Company:</localizedCompany>
+      <localizedAddtlRequirements>Additional Requirements</localizedAddtlRequirements>
+      <localizedGlSite>GL Site/Dept Name:</localizedGlSite>
+      <localizedCorporateJob>Corporate</localizedCorporateJob>
+      <localizedHomeOffice>Home Office:</localizedHomeOffice>
+      <localizedHiringManager>Hiring Manager:</localizedHiringManager>
+      <localizedEverGreen>Dec. 29, 2015</localizedEverGreen>
+      <localizedPosted>Posted:</localizedPosted>
+      <localizedEducation>Education</localizedEducation>
+      <localizedKeyMatchingTerms>Key Matching Terms</localizedKeyMatchingTerms>
+      <localizedRecruiter>Recruiter:</localizedRecruiter>
+      <localizedKeyQualifications>Key Qualifications</localizedKeyQualifications>
+      <localizedDescription>Description</localizedDescription>
+      <localizedLowJobTitle>Low Job Title:</localizedLowJobTitle>
+      <localizedRetailStore>Retail Store </localizedRetailStore>
+    </localizedJobDescLabels>
+  </Job>
+  <Job>
+    <requisitionInfo>
+      <retailPositionTypeCode>USSM</retailPositionTypeCode>
+      <retailPositionTypeName>US-Senior Manager</retailPositionTypeName>
+      <activeIndicator>1</activeIndicator>
+      <modifiedDate>2015-11-05</modifiedDate>
+      <modifiedUser type="integer">250736249</modifiedUser>
+      <globalPositionTypeCode>SRM</globalPositionTypeCode>
+      <countryCode>United States</countryCode>
+      <postingTitle>US-Senior Manager</postingTitle>
+      <cpSearchInd nil="true"/>
+      <questionnaireTemplateCode>8</questionnaireTemplateCode>
+      <postingCategory1>RET</postingCategory1>
+      <postingCategory2 nil="true"/>
+      <jobSummary>The challenges and opportunities of a continuously evolving business make leadership at the Apple Store a rewarding career. It’s your job as a Senior Manager to lead the staff and operations of one or more store areas and seek solutions and results that create a high-performing work environment. By reading situations quickly and acting courageously, you are able to build success for the business and promote the Apple brand through unparalleled customer service.</jobSummary>
+      <keyQualifications>Ability to collaborate with the store leadership team to develop strategic plans across multiple business groups, improving process and surpassing standards to drive the business in the store
+Proven ability to inspire, coach, train, and develop store team members to consistently provide exceptional customer service and drive for results
+Experience adapting to challenges, providing support, and guiding communications in a constantly changing retail environment</keyQualifications>
+      <posDescription>As a Senior Manager, you guide other leaders to inspire top performance from their teams. You monitor multiple lines of business within the store to achieve operational objectives and collaborate with corporate business partners to report results. You’re knowledgeable about the industry and keep up to date about competitors and trends. You lead the sales and customer support teams by example, finding solutions to create and maintain a high level of customer focus. To foster growth among your staff, you coach and encourage with clear communications. By developing strong relationships across teams and with customers, you create an environment that enhances loyalty for Apple products and services.</posDescription>
+      <education nil="true"/>
+      <addRequirements>• You have demonstrated leadership ability with at least five years of experience in a customer-facing sales setting.
+• Cross-industry experience is welcome — a retail background is not necessary.
+• You have a passion for learning about Apple technology and products.
+• You’re fluent in English (both written and spoken) and the local language. Multilingual ability is a plus.
+• You’ll need to be flexible with your schedule. Your work hours will be based on business needs.</addRequirements>
+      <keyMatchingTerms nil="true"/>
+      <visibleCCSearch>1</visibleCCSearch>
+      <jobCodeVarious>Various</jobCodeVarious>
+      <globalPositionType>RTL</globalPositionType>
+      <id>USSM</id>
+    </requisitionInfo>
+    <reqTextFields>
+      <description>As a Senior Manager, you guide other leaders to inspire top performance from their teams. You monitor multiple lines of business within the store to achieve operational objectives and collaborate with corporate business partners to report results. You’re knowledgeable about the industry and keep up to date about competitors and trends. You lead the sales and customer support teams by example, finding solutions to create and maintain a high level of customer focus. To foster growth among your staff, you coach and encourage with clear communications. By developing strong relationships across teams and with customers, you create an environment that enhances loyalty for Apple products and services.</description>
+      <additionalRequirements>• You have demonstrated leadership ability with at least five years of experience in a customer-facing sales setting.
+• Cross-industry experience is welcome — a retail background is not necessary.
+• You have a passion for learning about Apple technology and products.
+• You’re fluent in English (both written and spoken) and the local language. Multilingual ability is a plus.
+• You’ll need to be flexible with your schedule. Your work hours will be based on business needs.</additionalRequirements>
+      <educationDetails></educationDetails>
+      <preferredQualifications nil="true"/>
+      <keyQualifications>Ability to collaborate with the store leadership team to develop strategic plans across multiple business groups, improving process and surpassing standards to drive the business in the store
+Proven ability to inspire, coach, train, and develop store team members to consistently provide exceptional customer service and drive for results
+Experience adapting to challenges, providing support, and guiding communications in a constantly changing retail environment</keyQualifications>
+      <keyMatchingTerms></keyMatchingTerms>
+      <jobComments>The challenges and opportunities of a continuously evolving business make leadership at the Apple Store a rewarding career. It’s your job as a Senior Manager to lead the staff and operations of one or more store areas and seek solutions and results that create a high-performing work environment. By reading situations quickly and acting courageously, you are able to build success for the business and promote the Apple brand through unparalleled customer service.</jobComments>
+      <reqDescription>As a Senior Manager, you guide other leaders to inspire top performance from their teams. You monitor multiple lines of business within the store to achieve operational objectives and collaborate with corporate business partners to report results. You’re knowledgeable about the industry and keep up to date about competitors and trends. You lead the sales and customer support teams by example, finding solutions to create and maintain a high level of customer focus. To foster growth among your staff, you coach and encourage with clear communications. By developing strong relationships across teams and with customers, you create an environment that enhances loyalty for Apple products and services.</reqDescription>
+    </reqTextFields>
+    <jobComments>The challenges and opportunities of a continuously evolving business make leadership at the Apple Store a rewarding career. It’s your job as a Senior Manager to lead the staff and operations of one or more store areas and seek solutions and results that create a high-performing work environment. By reading situations quickly and acting courageously, you are able to build success for the business and promote the Apple brand through unparalleled customer service.</jobComments>
+    <languageList type="array">
+      <languageList>
+        <languageCode>en_US</languageCode>
+        <languageName>English</languageName>
+        <spokenLangIndicator nil="true"/>
+        <writtenLangIndicator nil="true"/>
+        <correspondenceLangIndicator nil="true"/>
+        <recruitmentLangSkill nil="true"/>
+        <modfdDate nil="true"/>
+        <modfdUser nil="true"/>
+        <displayLanguageName nil="true"/>
+        <localeName nil="true"/>
+        <id>en_US</id>
+      </languageList>
+    </languageList>
+    <errorMessage>None</errorMessage>
+    <jobDescLangCode>en_US</jobDescLangCode>
+    <localizedJobDescLabels>
+      <localizedPrefQualifications>Preferred Qualifications</localizedPrefQualifications>
+      <localizedShift>Shift:</localizedShift>
+      <localizedJobNumber>Job Number:</localizedJobNumber>
+      <localizedHighJobTitle>High Job Title:</localizedHighJobTitle>
+      <localizedNo>No</localizedNo>
+      <localizedYes>Yes</localizedYes>
+      <localizedEmploymentType>Employment Type:</localizedEmploymentType>
+      <localizedPreferredCandidateIdentified>Preferred Candidate Identified:</localizedPreferredCandidateIdentified>
+      <localizedJobSummary>Job Summary</localizedJobSummary>
+      <localizedWeeklyHours>Weekly Hours:</localizedWeeklyHours>
+      <localizedCompany>Company:</localizedCompany>
+      <localizedAddtlRequirements>Additional Requirements</localizedAddtlRequirements>
+      <localizedGlSite>GL Site/Dept Name:</localizedGlSite>
+      <localizedCorporateJob>Corporate</localizedCorporateJob>
+      <localizedHomeOffice>Home Office:</localizedHomeOffice>
+      <localizedHiringManager>Hiring Manager:</localizedHiringManager>
+      <localizedEverGreen>Dec. 29, 2015</localizedEverGreen>
+      <localizedPosted>Posted:</localizedPosted>
+      <localizedEducation>Education</localizedEducation>
+      <localizedKeyMatchingTerms>Key Matching Terms</localizedKeyMatchingTerms>
+      <localizedRecruiter>Recruiter:</localizedRecruiter>
+      <localizedKeyQualifications>Key Qualifications</localizedKeyQualifications>
+      <localizedDescription>Description</localizedDescription>
+      <localizedLowJobTitle>Low Job Title:</localizedLowJobTitle>
+      <localizedRetailStore>Retail Store </localizedRetailStore>
+    </localizedJobDescLabels>
+  </Job>
+</Jobs>

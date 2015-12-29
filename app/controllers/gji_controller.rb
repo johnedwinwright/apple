@@ -57,7 +57,7 @@ class GjiController < ApplicationController
       end.compact
 
       retry_counter = 0
-
+      results = []
       @corp_job_id_list.each do |gjcd|
         uri = URI.parse("https://jobs.apple.com/us/requisition/detail.json")
         http2 = Net::HTTP.new(uri.host, uri.port)
@@ -70,21 +70,21 @@ class GjiController < ApplicationController
         puts "#{gjcd}"
         puts "#{response2.message}"
         @gjirequest = response2.body
-        if response2.message == "Not Found" && retry_counter < 3
-          wait 1
+        if response2.message == "Not Found" && retry_counter < 5
+          sleep(2)
           retry_counter += 1
           response3 = http2.request(request2)
           puts "#{gjcd}"
           puts "#{response2.message}"
         elsif response2.message =="ok"
           retry_counter = 0
-        elsif retry_counter = 3
+        elsif retry_counter = 5
           retry_counter = 0
         end
+        results << JSON.parse(response2.body) if response2.body.length > 0
       end
 
       puts "#{@retaildetail}"
-
       @retail_job_id_list.each do |gjrd|
         uri = URI.parse("https://jobs.apple.com/us/requisition/retaildetail.json")
         http3 = Net::HTTP.new(uri.host, uri.port)
@@ -98,16 +98,23 @@ class GjiController < ApplicationController
         puts "#{response3.message}"
         @gjirequest = response3.body
         if response3.message == "Not Found" && retry_counter < 3
-          wait 1
+          sleep(1)
           retry_counter += 1
           response3 = http3.request(request3)
           puts "#{gjrd}"
           puts "#{response3.message}"
-        elsif response3.message =="ok"
+        elsif response3.message == "ok"
           retry_counter = 0
         elsif retry_counter = 3
           retry_counter = 0
         end
+        results << JSON.parse(response3.body) if response3.body.length > 0
+      end
+      results
+      my_xml = results.to_xml(root: :Jobs)
+      puts "#{results}"
+      File.open("results#{Time.now.to_i}.xml",'w') do |f|
+        f.puts my_xml
       end
     end
   end
