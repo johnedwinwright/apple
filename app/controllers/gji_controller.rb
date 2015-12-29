@@ -4,8 +4,6 @@ class GjiController < ApplicationController
       require "net/http"
       require "uri"
       uri = URI.parse("https://jobs.apple.com/us/search/search-result")
-
-      # Full
       http = Net::HTTP.new(uri.host, uri.port)
       http.use_ssl = true
       http.verify_mode = OpenSSL::SSL::VERIFY_NONE
@@ -32,39 +30,84 @@ class GjiController < ApplicationController
 
       request["Content-Type"] = "application/x-www-form-urlencoded"
       response = http.request(request)
+      #
+      # if response.message == "Not Found" && retry_counter < 3
+      #   retry_counter += 1
+      #   response3 = http3.request(request3)
+      #   puts "#{gjrd}"
+      #   puts "#{response3.message}"
+      # elsif response3.message =="ok"
+      #   retry_counter = 0
+      # elsif retry_counter = 3
+      #   retry_counter = 0
+      # end
+      puts "#{response.message}"
       @gjiresponse = response.body
       @gjirequest = request.body
 
       @doc = Nokogiri::XML("#{@gjiresponse}")
 
-      @block = @doc.xpath("//jobId")
-
-      @chld_class = @block.map do |node|
-        node.children.class
-      end
-
-      @chld_class
-      # => [Nokogiri::XML::NodeSet, Nokogiri::XML::NodeSet]
-      # @chld_name = @block.map do |node|
-      #   node.children.map { |n| [n.name] }
-      # end
-
-      @chld_name = @block.map do |node|
-        node.children.map{|n| [n.text]}.compact
+      @reqs = @doc.xpath("//requisition")
+      @retail_job_id_list = @reqs.map do |node|
+        node.xpath(".//jobId").text if node.xpath(".//jobTypeCategory").text == "Retail"
       end.compact
 
-      @chld_name = @chld_name.flatten
+      @corp_job_id_list = @reqs.map do |node|
+        node.xpath(".//jobId").text if node.xpath(".//jobTypeCategory").text != "Retail"
+      end.compact
 
-      @gjirequest = "#{getjobdetails_path}?jobid=#{@chld_name.first}"
+      retry_counter = 0
 
-      @chld_name.each do |gjd|
-        require "net/http"
-        require "uri"
-        uri = URI.parse("http://localhost:3000/gjd/getjobdetails?jobid=#{gjd}")
-        http = Net::HTTP.new(uri.host, uri.port)
-        request2 = Net::HTTP::Get.new(uri.request_uri)
-        response2 = http.request(request2)
-         @gjirequest = response.body
+      @corp_job_id_list.each do |gjcd|
+        uri = URI.parse("https://jobs.apple.com/us/requisition/detail.json")
+        http2 = Net::HTTP.new(uri.host, uri.port)
+        http2.use_ssl = true
+        http2.verify_mode = OpenSSL::SSL::VERIFY_NONE
+        request2 = Net::HTTP::Post.new(uri.request_uri)
+        request2.body = "requisitionId=#{gjcd}&reqType=REQ&clientOffset=-300"
+        request2["Content-Type"] = "application/x-www-form-urlencoded"
+        response2 = http2.request(request2)
+        puts "#{gjcd}"
+        puts "#{response2.message}"
+        @gjirequest = response2.body
+        if response2.message == "Not Found" && retry_counter < 3
+          wait 1
+          retry_counter += 1
+          response3 = http2.request(request2)
+          puts "#{gjcd}"
+          puts "#{response2.message}"
+        elsif response2.message =="ok"
+          retry_counter = 0
+        elsif retry_counter = 3
+          retry_counter = 0
+        end
+      end
+
+      puts "#{@retaildetail}"
+
+      @retail_job_id_list.each do |gjrd|
+        uri = URI.parse("https://jobs.apple.com/us/requisition/retaildetail.json")
+        http3 = Net::HTTP.new(uri.host, uri.port)
+        http3.use_ssl = true
+        http3.verify_mode = OpenSSL::SSL::VERIFY_NONE
+        request3 = Net::HTTP::Post.new(uri.request_uri)
+        request3.body = "requisitionId=#{gjrd}&reqType=PT&clientOffset=-300"
+        request3["Content-Type"] = "application/x-www-form-urlencoded"
+        response3 = http3.request(request3)
+        puts "#{gjrd}"
+        puts "#{response3.message}"
+        @gjirequest = response3.body
+        if response3.message == "Not Found" && retry_counter < 3
+          wait 1
+          retry_counter += 1
+          response3 = http3.request(request3)
+          puts "#{gjrd}"
+          puts "#{response3.message}"
+        elsif response3.message =="ok"
+          retry_counter = 0
+        elsif retry_counter = 3
+          retry_counter = 0
+        end
       end
     end
   end
